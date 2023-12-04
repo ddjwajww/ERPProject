@@ -1,0 +1,127 @@
+﻿
+<script>
+    //createRequest.js
+    var let_productImage = " @_localization.Getkey("Ürün Resmi").Value "
+    var let_productName = " @_localization.Getkey("Ürün Adı").Value "
+    var let_quantityUnit = " @_localization.Getkey("Miktar/Birim").Value "
+    var let_quantity = " @_localization.Getkey("Miktar").Value "
+    var let_transaction = " @_localization.Getkey("İşlem").Value "
+    var let_order = "@_localization.Getkey("Sıra").Value"
+    var let_piece = "@_localization.Getkey("Adet").Value"
+    var let_unit = "@_localization.Getkey("Birim").Value"
+    var let_request = "@_localization.Getkey("Talep").Value"
+    var let_requestCreate = "@_localization.Getkey("Talep Oluştur").Value"
+    var let_error = "@_localization.Getkey("Hata").Value"
+    var let_processError = "@_localization.Getkey("İşlem Sırasında Hata Oluştu.").Value"
+    var let_productNotZero = "@_localization.Getkey("Ürün adedi 0 olamaz.").Value"
+    var let_selectCategory = "@_localization.Getkey("Kategori Seç...").Value"
+    var let_selectProduct = "@_localization.Getkey("Ürün Seç...").Value"
+    var let_remove = "@_localization.Getkey("Çıkar").Value"
+</script>
+
+<div class=" card border-light border">
+    <div class="card-header">
+        <div class="row">
+            <div class="col-sm-8">
+                <h5>
+                    @_localization.Getkey("Sepet").Value
+                </h5>
+            </div>
+            <div class="col-sm-4">
+                <button type="button" class="btn btn-success float-end btn-sm" style="width:130px;"
+                        data-bs-toggle="modal" data-bs-target="#addProductModal">
+                    <i class="mdi dripicons-plus me-1"></i>
+                    <span>
+                        @_localization.Getkey("Ürün Ekle").Value
+                    </span>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="table-responsive">
+                <div id="divProductList" style="min-height:200px;"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        <button type="button" id="openModalButton" class="btn btn-sm btn-primary float-end" data-bs-toggle="modal"
+                data-bs-target="#createRequestModal" onclick="shortTable()" disabled>
+            <i class="mdi dripicons-to-do me-1"></i>@_localization.Getkey("Talep Oluştur").Value            
+        </button>
+    </div>
+    <div class="modal fade" id="addProductModal" tabindex="-1" role="dialog"
+         aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="myLargeModalLabel">@_localization.Getkey("Ürün Ekle").Value</h4>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"
+                            aria-hidden="true"></button>
+                </div>
+                <div class="modal-body">
+
+                    <div class="row pb-2 justify-content-center">
+                        <img src="~/assets/images/null.png" id="productImage" class="img-fluid"
+                             style="width:120px; height:auto;" alt="Product-img">
+                    </div>
+                    <div class="col-auto pt-1">
+                        <div class="d-flex align-items-center px-2">
+                            <label class="me-2" style="width:70px;">@_localization.Getkey("Kategori").Value</label>
+                            <select class="form-select" id="categoriyOption" onChange="categoryChange()"
+                                    style="min-width:180px;">
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-auto pt-2 pb-4">
+                        <div class="d-flex align-items-center px-2">
+                            <label class="me-2" style="width:70px;">@_localization.Getkey("Ürünler").Value</label>
+                            <select class="form-select" id="productOption" onChange="productChange()"
+                                    style="min-width:180px;">
+                                <option selected="">@_localization.Getkey("Ürünü Seç...").Value</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-sm btn-light"
+                            data-bs-dismiss="modal">
+                        @_localization.Getkey("Vazgeç").Value
+                    </button>
+                    <button type="button" class="btn btn-sm btn-primary" id="addProductButton"
+                            onclick="addProduct()" disabled>
+                        @_localization.Getkey("Ürünü Ekle").Value
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="createRequestModal" tabindex="-1" role="dialog"
+         aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="myLargeModalLabel">@_localization.Getkey("Talep Onayla").Value</h4>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"
+                            aria-hidden="true"></button>
+                </div>
+                <div class="modal-body">
+                    <div id="divShortProducts"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-sm btn-light"
+                            data-bs-dismiss="modal">
+                        @_localization.Getkey("Vazgeç").Value
+                    </button>
+                    <button type="button" class="btn  btn-sm btn-primary" id="createRequestButton"
+                            onclick="createRequest()">
+                        @_localization.Getkey("Oluştur").Value
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/request/createRequest.js"></script>

@@ -1,0 +1,60 @@
+﻿<script>
+    //role.js
+    var let_queue = "@_localization.Getkey("Sıra").Value"
+    var let_roleName = "@_localization.Getkey("Rol Adı").Value"
+    var let_edit = "@_localization.Getkey("Düzenle").Value"
+    var let_delete = "@_localization.Getkey("Sil").Value"
+    var let_role = "@_localization.Getkey("Rol").Value"
+    var let_updateSuccess = "@_localization.Getkey("Güncelleme İşlemi Başarılı.").Value"
+    var let_updateFail = "@_localization.Getkey("Güncelleme İşlemi Başarısız.").Value"
+    var let_regisSuccess = "@_localization.Getkey("Kayıt İşlemi Başarılı.").Value"
+    var let_regisFail = "@_localization.Getkey("Kayıt İşlemi Başarısız.").Value"
+    var let_deleteSuccess = "@_localization.Getkey("Silme İşlemi Başarılı.").Value"
+    var let_deleteFail = "@_localization.Getkey("Silme İşlemi Başarısız.").Value"
+</script>
+
+<div class="card border-light border mt-4 mb-4">
+    <h6 class="card-header"><i b-eruwahco1m="" class=" uil-building me-1"></i>@_localization.Getkey("Rol İşlemleri").Value</h6>
+    <div class="card-body">
+        <div class="row mb-2">
+            <div class="col-sm-4">
+                <button class="btn btn-success mb-2" onclick="newRole()" data-bs-toggle="modal" data-bs-target="#addRoleModal"><i class="mdi mdi-plus-circle me-2"></i>@_localization.Getkey("Rol Ekleme").Value </button>
+            </div>
+            <div class="col-sm-8">
+            </div>
+        </div>
+        <hr />
+        <div class="table-responsive mt-4">
+            <div id="divRoles"></div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="addRoleModal" tabindex="-1" role="dialog" aria-labelledby="addRoleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="addRoleModalLabel">@_localization.Getkey("Rol Bilgileri").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                        aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <div class="d-flex align-items-center px-2 mb-2 mt-2">
+                    <label class="me-2" style="width:90px;">@_localization.Getkey("Rol Adı").Value :</label>
+                    <input type="text" id="inputRoleName" class="form-control" />
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light" data-bs-dismiss="modal">
+                    @_localization.Getkey("Kapat").Value 
+                </button>
+
+                <button type="button" class="btn btn-sm btn-success" onclick="saveData()">
+                    @_localization.Getkey("Kaydet").Value 
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/role/role.js"></script>

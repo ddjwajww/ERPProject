@@ -1,0 +1,86 @@
+﻿<script>
+    //supplier.js
+    var let_queue = " @_localization.Getkey("Sıra").Value "
+    var let_companyName = " @_localization.Getkey("Şirket Adı").Value "
+    var let_phone = " @_localization.Getkey("Telefon").Value "
+    var let_mail = " @_localization.Getkey("ePosta").Value "
+    var let_supplierCompany = " @_localization.Getkey("Tedarikçi Firma").Value "
+    var let_regisSuccess = "@_localization.Getkey("Kayıt İşlemi Başarılı.").Value"
+    var let_duringProcessFail = " @_localization.Getkey("İşlem Sırasında Hata Oluştu.").Value "
+    var let_deleteSuccess = " @_localization.Getkey("Silme İşlemi Başarılı.").Value "
+    var let_updateSuccess = " @_localization.Getkey("Güncelleme İşlemi Başarılı.").Value "
+
+</script>
+
+<div class=" card border border-light">
+    <div class="card-body">
+        <h5 class="mb-4 bg-light p-2">
+            <i class="mdi mdi-office-building me-1"></i>@_localization.Getkey("Tedarikçi Firma Listesi").Value
+        </h5>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="app-search mb-2">
+                    <form>
+                        <div class="mb-2 position-relative">
+                            <input type="text" class="form-control" id="searchText" autocomplete="off" placeholder="@_localization.Getkey("Tedarikçi Firma Ara...").Value">
+                            <span class="mdi mdi-magnify search-icon"></span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="col-sm-2">
+            </div>
+            <div class="col-sm-4">
+                <button class="btn float-end btn-success mb-2" data-bs-toggle="modal" onclick="newSupplier()" data-bs-target="#addSupplierModal"><i class="mdi mdi-plus-circle me-2"></i> @_localization.Getkey("Şirket Ekleme").Value</button>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <hr />
+            <div class="table-responsive">
+                <div id="divSuppliers">
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="modal fade" id="addSupplierModal" tabindex="-1" role="dialog" aria-labelledby="addSupplierModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="addSupplierModalLabel">@_localization.Getkey("Firma Bilgileri").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                        aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-12 mb-2">
+                        <label>@_localization.Getkey("Şirket Adı").Value :</label>
+                        <input class="form-control" type="text" id="inputCompanyName" required="" placeholder="@_localization.Getkey("Firma adını giriniz...").Value">
+                    </div>
+                </div>
+                  <div class="row">
+                    <div class="col-md-12 mb-2">
+                        <label> @_localization.Getkey("Telefon").Value :</label>
+                        <input class="form-control" type="number" id="inputPhone" required="">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 mb-2">
+                        <label> @_localization.Getkey("ePosta").Value:</label>
+                        <input class="form-control" type="email" id="inputEmail" required="">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-primary" data-bs-dismiss="modal">
+                    @_localization.Getkey("Vazgeç").Value
+                </button>
+                <button type="button" class="btn btn-sm btn-success" onclick="createSupplier()">
+                    @_localization.Getkey("Kaydet").Value
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/supplier/supplier.js"></script>

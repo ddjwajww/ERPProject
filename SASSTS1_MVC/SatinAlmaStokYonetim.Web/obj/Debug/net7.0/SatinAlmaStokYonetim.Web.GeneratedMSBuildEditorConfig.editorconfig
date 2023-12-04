@@ -1,0 +1,219 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SatinAlmaStokYonetim.Web
+build_property.RootNamespace = SatinAlmaStokYonetim.Web
+build_property.ProjectDir = C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Admin/Views/Home/Authority.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxBdXRob3JpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Admin/Views/Home/Company.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxDb21wYW55LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Admin/Views/Home/Department.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Admin/Views/Home/Employee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Admin/Views/Home/Message.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Admin/Views/Home/Null.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxOdWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Admin/Views/Home/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Admin/Views/Home/ProductCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxQcm9kdWN0Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Admin/Views/Home/Role.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/Account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/ApproveRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxBcHByb3ZlUmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/CreateOffer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxDcmVhdGVPZmZlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/CreateRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxDcmVhdGVSZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/History.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxIaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/InvoiceEntry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxJbnZvaWNlRW50cnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/Invoices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxJbnZvaWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/ManageStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxNYW5hZ2VTdG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/Message.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/Null.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxOdWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/OfferApproval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxPZmZlckFwcHJvdmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/Reports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxSZXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/RequestList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxSZXF1ZXN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/Supplier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxTdXBwbGllci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/Support.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxTdXBwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/Home/TimeReports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcSG9tZVxUaW1lUmVwb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Areas/Employee/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Account/ConfirmMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtTWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Account/LockScreen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2NrU2NyZWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Account/RecoverPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWNvdmVyUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Error/PageNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcUGFnZU5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Null/Maintenance_de.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVsbFxNYWludGVuYW5jZV9kZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Null/Maintenance_en.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVsbFxNYWludGVuYW5jZV9lbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Null/Maintenance_es.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVsbFxNYWludGVuYW5jZV9lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Null/Maintenance_it.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVsbFxNYWludGVuYW5jZV9pdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-eruwahco1m
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Shared/_EmployeeLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FbXBsb3llZUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-no8dghdelh
+
+[C:/Users/emre/Desktop/Son Proje/AHL.ERP-main/SASSTS1_MVC/SatinAlmaStokYonetim.Web/Views/Shared/_LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-bpxr40qa3x

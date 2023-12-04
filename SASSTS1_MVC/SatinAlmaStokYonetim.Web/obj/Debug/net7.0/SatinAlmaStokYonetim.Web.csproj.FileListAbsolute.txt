@@ -1,0 +1,991 @@
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_07_19\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_12_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Serhat Akbulut\Desktop\UI_9_11_2023_17_55\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_13_20\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Hp1905\Desktop\10_11_2023 Cuma Proje\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Hp1905\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\omers\OneDrive\Masaüstü\6\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Serhat Akbulut\Desktop\UI_10_11_2023_18_00 - Kopya\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Serhat Akbulut\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Owin.dll
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\OmerSarlavuk\Desktop\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Owin.dll
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\omers\OneDrive\Masaüstü\Sasts_End_MVC Up2\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Owin.dll
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Hp1905\Desktop\Sasts_End_MVC Up3\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Owin.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Sasts_End_MVC Up4\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Owin.dll
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Serhat Akbulut\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Owin.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.de-DE.resources
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.en-GB.resources
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.es-ES.resources
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.it-IT.resources
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.GenerateResource.cache
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.tr-TR.resources
+C:\Users\Fatih Emre Sarman\Desktop\UI\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.de-DE.resources
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.en-GB.resources
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.es-ES.resources
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.it-IT.resources
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.tr-TR.resources
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.GenerateResource.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.sourcelink.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Owin.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Owin.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.de-DE.resources
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.en-GB.resources
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.es-ES.resources
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.it-IT.resources
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.tr-TR.resources
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.GenerateResource.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Owin.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.de-DE.resources
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.en-GB.resources
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.es-ES.resources
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.it-IT.resources
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.tr-TR.resources
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.GenerateResource.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.sourcelink.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Owin.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.de-DE.resources
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.en-GB.resources
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.es-ES.resources
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.it-IT.resources
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.tr-TR.resources
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.GenerateResource.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Owin.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.de-DE.resources
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.en-GB.resources
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.es-ES.resources
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.it-IT.resources
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.tr-TR.resources
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.GenerateResource.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.staticwebassets.runtime.json
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.exe
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.deps.json
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.runtimeconfig.json
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\bin\Debug\net7.0\Owin.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.de-DE.resources
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.en-GB.resources
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.es-ES.resources
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.it-IT.resources
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.Resources.SharedResource.tr-TR.resources
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.GenerateResource.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfoInputs.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.AssemblyInfo.cs
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.RazorAssemblyInfo.cs
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\de-DE\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\en-GB\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\es-ES\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\it-IT\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\tr-TR\SatinAlmaStokYonetim.Web.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.SatinAlmaStokYonetim.Web.props
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_LoginLayout.cshtml.rz.scp.css
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\bundle\SatinAlmaStokYonetim.Web.styles.css
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\scopedcss\projectbundle\SatinAlmaStokYonetim.Web.bundle.scp.css
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.csproj.CopyComplete
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\refint\SatinAlmaStokYonetim.Web.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\SatinAlmaStokYonetim.Web.genruntimeconfig.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1_MVC\SatinAlmaStokYonetim.Web\obj\Debug\net7.0\ref\SatinAlmaStokYonetim.Web.dll

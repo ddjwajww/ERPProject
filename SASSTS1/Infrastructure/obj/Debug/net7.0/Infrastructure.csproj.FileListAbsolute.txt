@@ -1,0 +1,614 @@
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\omers\OneDrive\Masaüstü\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\Backend\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Hp1905\Desktop\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Hp1905\Desktop\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Hp1905\Desktop\Backend\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Hp1905\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hp1905\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp1905\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hp1905\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Hp1905\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hp1905\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Hp1905\Desktop\Backend\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Hp1905\Desktop\Backend\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Hp1905\Desktop\Backend\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Hp1905\Desktop\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Hp1905\Desktop\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Hp1905\Desktop\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Hp1905\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hp1905\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp1905\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hp1905\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Hp1905\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hp1905\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Hp1905\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Hp1905\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Hp1905\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Backend up3\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\Backend up4\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up4\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up4\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Backend up4\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up4\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Backend up4\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up4\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up4\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\Backend up5\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up5\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up5\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Backend up5\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up5\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Backend up5\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up5\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up5\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

@@ -1,0 +1,6 @@
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.DataAccess\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.DataAccess\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb

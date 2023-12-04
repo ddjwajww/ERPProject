@@ -1,0 +1,171 @@
+﻿<script>
+    //approveOffer.js
+    var let_offer = " @_localization.Getkey("Teklif").Value "
+    var let_error = " @_localization.Getkey("Hata").Value "
+    var let_offerDenied = " @_localization.Getkey("Teklif Reddedildi").Value "
+    var let_duringProcessFail = " @_localization.Getkey("İşlem Sırasında Hata Oluştu.").Value "
+    var let_offerApproved = " @_localization.Getkey("Teklif Onaylandı").Value "
+    var let_queue = " @_localization.Getkey("Sıra").Value "
+    var let_product = " @_localization.Getkey("Ürün").Value "
+    var let_quantity = " @_localization.Getkey("Miktar").Value "
+    var let_unitPrice = " @_localization.Getkey("Birim Fiyat").Value "
+    var let_supplierCompany = " @_localization.Getkey("Tedarikçi Firma").Value "
+    var let_offerDate = " @_localization.Getkey("Teklif Tarihi").Value "
+    var let_orders = " @_localization.Getkey("Siparişler").Value "
+    var let_currency = " @_localization.Getkey("Kur").Value "
+    var let_accept = " @_localization.Getkey("Reddet").Value "
+    var let_deny = " @_localization.Getkey("Onayla").Value "
+    var let_unit = " @_localization.Getkey("Birim").Value "
+    var let_offerApprove = " @_localization.Getkey("Teklif Onay...").Value "
+    var let_requestNo = " @_localization.Getkey("Talep No").Value "
+    var let_totalPrice = "@_localization.Getkey("Toplam Fiyat").Value"
+
+</script>
+<div class="card border border-light">
+    <div class="card-body">
+        <div class="page-aside-left">
+            <div class="col-12">
+                <h5 class="mb-3 bg-light p-2">
+                    <i class="mdi mdi-office-building me-1"></i> @_localization.Getkey("Talep Listesi").Value
+                </h5>
+                <div class="app-search">
+                    <form>
+                        <div class="mb-2 position-relative">
+                            <input type="text" class="form-control" id="searchRequest" autocomplete="off" placeholder="@_localization.Getkey("Talep No Ara...").Value">
+                            <span class="mdi mdi-magnify search-icon"></span>
+                        </div>
+                    </form>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div data-simplebar="init" style="max-height: 535px;">
+                            <div class="simplebar-wrapper" style="margin: 0px;">
+                                <div class="simplebar-height-auto-observer-wrapper">
+                                    <div class="simplebar-height-auto-observer"></div>
+                                </div>
+                                <div class="simplebar-mask">
+                                    <div class="simplebar-offset" style="right: 0px; bottom: 0px;">
+                                        <div class="simplebar-content-wrapper"
+                                             style="height: auto; overflow: hidden scroll;">
+                                            <div class="simplebar-content" style="padding: 0px;">
+                                                <div id="divRequests"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="simplebar-placeholder"
+                                     style="width: 291px; height: 546px;"></div>
+                            </div>
+                            <div class="simplebar-track simplebar-horizontal"
+                                 style="visibility: visible;">
+                                <div class="simplebar-scrollbar" style="width: 0px; display: none;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="page-aside-right">
+
+            <div id="infoRequestNo">
+                <h5 class="mb-3 bg-light p-2">
+                    <a class="text-dark" data-bs-toggle="collapse" href="#requestDetail" role="button" aria-expanded="true" aria-controls="requestDetail">
+                        <i class="mdi mdi-office-building me-1"></i>@_localization.Getkey("Talep No").Value : <span id="requestInfo"></span> <span class="float-end">@_localization.Getkey("Detay").Value +</span>
+                    </a>
+                </h5>
+                <div class="collapse" id="requestDetail">
+                    <div class="card mb-0">
+                        <div class="card-body">
+                            <div id="divRequestDetail"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="offerPage" style="display:none;">
+                <h5 class="mt-4 bg-light p-2">
+                    <i class="mdi mdi-office-building me-1"></i>@_localization.Getkey("Gelen Teklifler").Value 
+                </h5>
+                <div id="divOffers">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="declineModal" tabindex="-1" role="dialog"
+     aria-labelledby="declineModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="declineModalLabel">@_localization.Getkey("Teklifi Reddetmek İstiyor Musunuz?").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                        aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light"
+                        data-bs-dismiss="modal">
+                    @_localization.Getkey("Vazgeç").Value
+                </button>
+                <button type="button" onclick="approveOk()" class="btn btn-sm btn-danger"
+                        data-bs-dismiss="modal">
+                    @_localization.Getkey("Evet").Value
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="approveModal" tabindex="-1" role="dialog"
+     aria-labelledby="approveModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="approveModalLabel">@_localization.Getkey("Teklifi Onaylaylıyor Musunuz?").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                        aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light"
+                        data-bs-dismiss="modal">
+                    @_localization.Getkey("Vazgeç").Value 
+                </button>
+                <button type="button" onclick="approveOk()" class="btn btn-sm btn-success"
+                        data-bs-dismiss="modal">
+                    @_localization.Getkey("Evet").Value
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="detailModal" tabindex="-1" role="dialog"
+     aria-labelledby="detailModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="detailModalLabel">@_localization.Getkey("Teklif Bilgileri").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                        aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <div id="offerDetail" class="col-auto">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-primary"
+                        data-bs-dismiss="modal">
+                    @_localization.Getkey("Kapat").Value
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/offer/approveOffer.js"></script>

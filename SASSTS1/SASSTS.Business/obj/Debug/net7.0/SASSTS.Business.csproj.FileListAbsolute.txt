@@ -1,0 +1,560 @@
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.sourcelink.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.sourcelink.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.de-DE.resources
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.en-GB.resources
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.es-ES.resources
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.it-IT.resources
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.tr-TR.resources
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.GenerateResource.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\de-DE\SASSTS.Business.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\en-GB\SASSTS.Business.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\es-ES\SASSTS.Business.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\it-IT\SASSTS.Business.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\tr-TR\SASSTS.Business.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\de-DE\SASSTS.Business.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\en-GB\SASSTS.Business.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\es-ES\SASSTS.Business.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\it-IT\SASSTS.Business.resources.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\tr-TR\SASSTS.Business.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\de-DE\SASSTS.Business.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\en-GB\SASSTS.Business.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\es-ES\SASSTS.Business.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\it-IT\SASSTS.Business.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\tr-TR\SASSTS.Business.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.de-DE.resources
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.en-GB.resources
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.es-ES.resources
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.it-IT.resources
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.tr-TR.resources
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.GenerateResource.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\de-DE\SASSTS.Business.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\en-GB\SASSTS.Business.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\es-ES\SASSTS.Business.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\it-IT\SASSTS.Business.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\tr-TR\SASSTS.Business.resources.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\de-DE\SASSTS.Business.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\en-GB\SASSTS.Business.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\es-ES\SASSTS.Business.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\it-IT\SASSTS.Business.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\tr-TR\SASSTS.Business.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.de-DE.resources
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.en-GB.resources
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.es-ES.resources
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.it-IT.resources
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.tr-TR.resources
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.GenerateResource.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\de-DE\SASSTS.Business.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\en-GB\SASSTS.Business.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\es-ES\SASSTS.Business.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\it-IT\SASSTS.Business.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\tr-TR\SASSTS.Business.resources.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.deps.json
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\de-DE\SASSTS.Business.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\en-GB\SASSTS.Business.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\es-ES\SASSTS.Business.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\it-IT\SASSTS.Business.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\tr-TR\SASSTS.Business.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.DataAccess.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.de-DE.resources
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.en-GB.resources
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.es-ES.resources
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.it-IT.resources
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.Resources.SharedResource.tr-TR.resources
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.GenerateResource.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfoInputs.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.AssemblyInfo.cs
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\de-DE\SASSTS.Business.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\en-GB\SASSTS.Business.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\es-ES\SASSTS.Business.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\it-IT\SASSTS.Business.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\tr-TR\SASSTS.Business.resources.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.csproj.CopyComplete
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\refint\SASSTS.Business.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\SASSTS.Business.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Business\obj\Debug\net7.0\ref\SASSTS.Business.dll

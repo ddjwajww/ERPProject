@@ -1,0 +1,71 @@
+﻿@using SatinAlmaStokYonetim.Web.Code;
+<div class="row">
+
+    <div class="col-xl-9 col-lg-8">
+        <div class="card  border border-light">
+            <div class="card-body">
+                <h5 class="bg-light p-2">
+                    <i class="mdi mdi-arrow-down-bold-box me-1"></i>@_localization.Getkey("Yapılacaklar").Value
+                </h5>
+                <div class="todoapp">
+                    <div class="row  mt-3">
+                        <div class="col">
+                            <h5 id="todo-message"><span>@_localization.Getkey("Tamamlanan").Value : </span><span id="todo-remaining">0</span> @_localization.Getkey("- Toplam:").Value <span id="todo-total">0</span></h5>
+                        </div>
+                        <div class="col-auto">
+                            <a class="float-end btn btn-light btn-sm" onclick="deleteTodo()" id="btn-archive">@_localization.Getkey("Biten Görevleri Sil").Value</a>
+                        </div>
+                    </div>
+
+                    <div style="max-height: 280px;" data-simplebar="">
+                        <ul class="list-group list-group-flush todo-list" id="divTest" style="min-height:252px;">
+                        </ul>
+                    </div>
+
+                    <form name="todo-form" id="todo-form" method="post" class="needs-validation" novalidate="">
+                        <div class="row">
+                            <div class="col">
+                                <input type="text" id="inputText" name="todo-input-text" class="form-control" placeholder="@_localization.Getkey("Bir Görev Ekle...").Value" required="">
+                                <div class="invalid-feedback">
+                                    @_localization.Getkey("Boş görev eklenemez!").Value
+                                </div>
+                            </div>
+                            <div class="col-auto d-grid">
+                                <button class="btn-primary btn-md btn waves-effect waves-light" type="submit" onclick="createTodo()">+ @_localization.Getkey("Ekle").Value</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-lg-4">
+        <div class="card border border-light">
+            <div class="card-body" style="min-width:200px;">
+                <div class="float-end">
+                    <i class="uil-dollar-alt widget-icon bg-success rounded-circle text-white mx-1"></i>
+                </div>
+                <h5 class="text-muted fw-normal text-center mt-0">1$ = @Repo.Exchange.Dolar₺</h5>
+            </div>
+        </div>
+        <div class="card  border border-light">
+            <div class="card-body">
+                <div class="float-end">
+                    <i class="uil-euro widget-icon bg-primary rounded-circle text-white mx-1"></i>
+                </div>
+                <h5 class="text-muted text-center fw-normal mt-0">1€ = @Repo.Exchange.Euro₺</h5>
+            </div>
+        </div>
+        <div class="card  border border-light">
+            <div class="card-body">
+                <div class="float-end">
+                    <i class="uil-pound widget-icon bg-danger rounded-circle text-white mx-1"></i>
+                </div>
+                <h5 class="text-muted text-center fw-normal mt-0">1£ = @Repo.Exchange.Sterlin₺</h5>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/index/todo.js"></script>
+<script src="~/js/index/exchange.js"></script>

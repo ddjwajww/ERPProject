@@ -1,0 +1,21 @@
+﻿.imgBoyut {
+    width:40%;
+}
+
+@media (max-width: 768px) {
+    .imgBoyut
+{
+    width:30%;
+}
+
+}
+
+.logo-container {
+    text-align: center;
+}
+
+.logo-container img {
+    max-width: 98%;
+    height: auto;
+    margin-top:-60px;
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BF+DQDTL1RcfpMNEedINb4e6LRCPHAbIo44IUJjDQ5g=",
+  "Source": "SASSTS.WebAPI",
+  "BasePath": "_content/SASSTS.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

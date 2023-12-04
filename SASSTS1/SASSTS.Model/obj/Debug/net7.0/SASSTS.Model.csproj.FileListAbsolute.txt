@@ -1,0 +1,767 @@
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Stock Follow and Management Systems\Backend\SASSTS.WebAPI\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\project\project\SASSTS\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\source\repos\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\ServicNew\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis8\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\Servis8 16_10_2_11_2023\Servis8 16_10_2_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_11_20_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_16_00_06_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Servis_12_00_07_11_2023\Servis_12_00_07_11_2023\Servis_16_00_06_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Servis_14_00_07_11_2023\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\8.11.23\SASSTS1\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\UoFMy\SASSTS1 (1)\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 9_11\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\14.11.23  -  14.11(saat)\servis 9_11_14_00\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_10_12\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 10_11_13_20\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\10.11.23 - 14.13\Serhat Abi\servis 10_11_18_00\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Hp1905\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\6\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\servis 11_11_13_40\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\SASSTS Projesi\Backend\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\PROJE\Backend\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Stok Takip Projesi Ekip\Backend\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\Backend\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Hp1905\Desktop\Backend\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\i\Backend up3\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Hp1905\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\yyu\Backend up3\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\son\Backend up3\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\Backend up3\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\20.11.23  16.07 son hal\Backend up3\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up4\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\Backend up5\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\OmerSarlavuk\Desktop\proje 22_11_2023 Up2\Backend 6\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Desktop\webcam\Backend 6\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.sourcelink.json
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\emre-\OneDrive\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\abidi\Desktop\SASSTS\SASSTS.Client\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.sourcelink.json
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\asozkomurcu\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\Serhat Akbulut\Documents\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\omers\OneDrive\Belgeler\GitHub\AHL.ERP\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.deps.json
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\bin\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfoInputs.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.AssemblyInfo.cs
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.csproj.CopyComplete
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\obj\Debug\net7.0\refint\SASSTS.Model.dll
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\obj\Debug\net7.0\SASSTS.Model.pdb
+C:\Users\emre\Desktop\Son Proje\AHL.ERP-main\SASSTS1\SASSTS.Model\obj\Debug\net7.0\ref\SASSTS.Model.dll

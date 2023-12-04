@@ -1,0 +1,1626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="- Toplam:" xml:space="preserve">
+    <value>- Toplam:</value>
+  </data>
+  <data name="1" xml:space="preserve">
+    <value>G</value>
+  </data>
+  <data name="10" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="11" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="12" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="13" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="14" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="2" xml:space="preserve">
+    <value>İ</value>
+  </data>
+  <data name="3" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="4" xml:space="preserve">
+    <value>İ</value>
+  </data>
+  <data name="404 | Sayfa Bulunamadı" xml:space="preserve">
+    <value>404 | Sayfa Bulunamadı</value>
+  </data>
+  <data name="5" xml:space="preserve">
+    <value>Ş</value>
+  </data>
+  <data name="6" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="7" xml:space="preserve">
+    <value>Y</value>
+  </data>
+  <data name="8" xml:space="preserve">
+    <value>A</value>
+  </data>
+  <data name="9" xml:space="preserve">
+    <value>P</value>
+  </data>
+  <data name="Ad" xml:space="preserve">
+    <value>Ad</value>
+  </data>
+  <data name="Ad giriniz..." xml:space="preserve">
+    <value>Ad giriniz...</value>
+  </data>
+  <data name="Ad Soyad" xml:space="preserve">
+    <value>Ad Soyad</value>
+  </data>
+  <data name="Adet" xml:space="preserve">
+    <value>Adet</value>
+  </data>
+  <data name="Adı" xml:space="preserve">
+    <value>Adı</value>
+  </data>
+  <data name="AHLATCI TEKNOLOJI" xml:space="preserve">
+    <value>AHLATCI TEKNOLOJI</value>
+  </data>
+  <data name="Ahlatcı Teknoloji - Kurumsal Yönetim Sistemi" xml:space="preserve">
+    <value>Ahlatcı Teknoloji - Kurumsal Yönetim Sistemi</value>
+  </data>
+  <data name="Alış" xml:space="preserve">
+    <value>Alış</value>
+  </data>
+  <data name="Ana Sayfaya Dön" xml:space="preserve">
+    <value>Ana Sayfaya Dön</value>
+  </data>
+  <data name="Anasayfa" xml:space="preserve">
+    <value>Anasayfa</value>
+  </data>
+  <data name="Aradığınız kaynak kaldırılmış, adı değiştirilmiş ya da geçici olarak kullanım dışı olabilir..." xml:space="preserve">
+    <value>Aradığınız kaynak kaldırılmış, adı değiştirilmiş ya da geçici olarak kullanım dışı olabilir...</value>
+  </data>
+  <data name="ARAMIZA HOŞGELDİNİZ" xml:space="preserve">
+    <value>ARAMIZA HOŞGELDİNİZ</value>
+  </data>
+  <data name="Başarılı" xml:space="preserve">
+    <value>Başarılı</value>
+  </data>
+  <data name="Başarıyla Çıkış Yaptınız." xml:space="preserve">
+    <value>Başarıyla Çıkış Yaptınız.</value>
+  </data>
+  <data name="Bekleyen Talepler" xml:space="preserve">
+    <value>Bekleyen Talepler</value>
+  </data>
+  <data name="Bilgi" xml:space="preserve">
+    <value>Bilgi</value>
+  </data>
+  <data name="Bilgiler" xml:space="preserve">
+    <value>Bilgiler</value>
+  </data>
+  <data name="Bilgileri Güncelle" xml:space="preserve">
+    <value>Bilgileri Güncelle</value>
+  </data>
+  <data name="Bilgileri Güncellemeyi Onaylıyor Musununuz?" xml:space="preserve">
+    <value>Bilgileri Güncellemeyi Onaylıyor Musununuz?</value>
+  </data>
+  <data name="Bilgilerim" xml:space="preserve">
+    <value>Bilgilerim</value>
+  </data>
+  <data name="Bilgileriniz Güncellendi" xml:space="preserve">
+    <value>Bilgileriniz Güncellendi</value>
+  </data>
+  <data name="Bir Görev Ekle.." xml:space="preserve">
+    <value>Bir Görev Ekle..</value>
+  </data>
+  <data name="Bir Görev Ekle..." xml:space="preserve">
+    <value>Bir Görev Ekle...</value>
+  </data>
+  <data name="Birim" xml:space="preserve">
+    <value>Birim</value>
+  </data>
+  <data name="Birim bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Birim bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Birim Değeri" xml:space="preserve">
+    <value>Birim Değeri</value>
+  </data>
+  <data name="Birim Fiyat" xml:space="preserve">
+    <value>Birim Fiyat</value>
+  </data>
+  <data name="Birim Seç..." xml:space="preserve">
+    <value>Birim Seç...</value>
+  </data>
+  <data name="Birim Seçiniz..." xml:space="preserve">
+    <value>Birim Seçiniz...</value>
+  </data>
+  <data name="Biten Görevleri Sil" xml:space="preserve">
+    <value>Biten Görevleri Sil</value>
+  </data>
+  <data name="Boş görev eklenemez!" xml:space="preserve">
+    <value>Boş görev eklenemez!</value>
+  </data>
+  <data name="Bu sen değil misin?" xml:space="preserve">
+    <value>Bu sen değil misin?</value>
+  </data>
+  <data name="Departman" xml:space="preserve">
+    <value>Departman</value>
+  </data>
+  <data name="Departman Adı" xml:space="preserve">
+    <value>Departman Adı</value>
+  </data>
+  <data name="Departman adı boş bırakılamaz." xml:space="preserve">
+    <value>Departman adı boş bırakılamaz.</value>
+  </data>
+  <data name="Departman adı en az 5 karakterden oluşmalıdır." xml:space="preserve">
+    <value>Departman adı en az 5 karakterden oluşmalıdır.</value>
+  </data>
+  <data name="Departman adı en fazla 50 karakterden oluşabilir." xml:space="preserve">
+    <value>Departman adı en fazla 50 karakterden oluşabilir.</value>
+  </data>
+  <data name="Departman Bilgileri" xml:space="preserve">
+    <value>Departman Bilgileri</value>
+  </data>
+  <data name="Departman bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Departman bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Departman Ekle" xml:space="preserve">
+    <value>Departman Ekle</value>
+  </data>
+  <data name="Departman Ekleme" xml:space="preserve">
+    <value>Departman Ekleme</value>
+  </data>
+  <data name="Departman Güncelleme" xml:space="preserve">
+    <value>Departman Güncelleme</value>
+  </data>
+  <data name="Departman No" xml:space="preserve">
+    <value>Departman No</value>
+  </data>
+  <data name="Departman numarası 3 karakterden oluşabilir." xml:space="preserve">
+    <value>Departman numarası 3 karakterden oluşabilir.</value>
+  </data>
+  <data name="Departman numarası boş bırakılamaz." xml:space="preserve">
+    <value>Departman numarası boş bırakılamaz.</value>
+  </data>
+  <data name="Departman Seç..." xml:space="preserve">
+    <value>Departman Seç...</value>
+  </data>
+  <data name="Departman Seçilmedi." xml:space="preserve">
+    <value>Departman Seçilmedi.</value>
+  </data>
+  <data name="Departman Silme" xml:space="preserve">
+    <value>Departman Silme</value>
+  </data>
+  <data name="Departman İşlemleri" xml:space="preserve">
+    <value>Departman İşlemleri</value>
+  </data>
+  <data name="Destek" xml:space="preserve">
+    <value>Destek</value>
+  </data>
+  <data name="Detay" xml:space="preserve">
+    <value>Detay</value>
+  </data>
+  <data name="Detay :" xml:space="preserve">
+    <value>Detay :</value>
+  </data>
+  <data name="Diller" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="Dolar" xml:space="preserve">
+    <value>Dolar</value>
+  </data>
+  <data name="Dosya Al" xml:space="preserve">
+    <value>Dosya Al</value>
+  </data>
+  <data name="Dosya Ver" xml:space="preserve">
+    <value>Dosya Ver</value>
+  </data>
+  <data name="Durum" xml:space="preserve">
+    <value>Durum</value>
+  </data>
+  <data name="Düzenle" xml:space="preserve">
+    <value>Düzenle</value>
+  </data>
+  <data name="e-Posta adresinizi giriniz ve bizde size şifrenizi yenilemeniz için gerekli yönergeleri size gönderelim." xml:space="preserve">
+    <value>e-Posta adresinizi giriniz ve bizde size şifrenizi yenilemeniz için gerekli yönergeleri size gönderelim.</value>
+  </data>
+  <data name="Ekle" xml:space="preserve">
+    <value>Ekle</value>
+  </data>
+  <data name="Ekleme İşlemi Başarılı." xml:space="preserve">
+    <value>Ekleme İşlemi Başarılı.</value>
+  </data>
+  <data name="Ekleme İşlemi Başarısız." xml:space="preserve">
+    <value>Ekleme İşlemi Başarısız.</value>
+  </data>
+  <data name="ePosta" xml:space="preserve">
+    <value>ePosta</value>
+  </data>
+  <data name="ePosta Adresi" xml:space="preserve">
+    <value>ePosta Adresi</value>
+  </data>
+  <data name="ePosta Adresi Doğrulanamadı." xml:space="preserve">
+    <value>ePosta Adresi Doğrulanamadı.</value>
+  </data>
+  <data name="ePosta adresi kullanılmaktadır. Lütfen farklı bir eposta adresi giriniz." xml:space="preserve">
+    <value>ePosta adresi kullanılmaktadır. Lütfen farklı bir eposta adresi giriniz.</value>
+  </data>
+  <data name="ePosta adresini giriniz..." xml:space="preserve">
+    <value>ePosta adresini giriniz...</value>
+  </data>
+  <data name="ePosta bilgisi 5 karakterden büyük olmalıdır." xml:space="preserve">
+    <value>ePosta bilgisi 50 karakterden büyük olamaz.</value>
+  </data>
+  <data name="ePosta bilgisi 50 karakterden büyük olamaz." xml:space="preserve">
+    <value>ePosta bilgisi 50 karakterden büyük olamaz.</value>
+  </data>
+  <data name="ePosta bilgisi boş olamaz." xml:space="preserve">
+    <value>ePosta bilgisi boş olamaz.</value>
+  </data>
+  <data name="ePosta veya Kullanıcı Adı 5 karakterden büyük olmalıdır." xml:space="preserve">
+    <value>ePosta veya Kullanıcı Adı 5 karakterden büyük olmalıdır.</value>
+  </data>
+  <data name="ePostanıza Doğrulama Kodu Gönderildi." xml:space="preserve">
+    <value>ePostanıza Doğrulama Kodu Gönderildi.</value>
+  </data>
+  <data name="ePostanıza gelen doğrulama kodunu giriniz." xml:space="preserve">
+    <value>ePostanıza gelen doğrulama kodunu giriniz.</value>
+  </data>
+  <data name="Euro" xml:space="preserve">
+    <value>Euro</value>
+  </data>
+  <data name="Evet" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="Fatura" xml:space="preserve">
+    <value>Fatura</value>
+  </data>
+  <data name="Fatura Bilgileri" xml:space="preserve">
+    <value>Fatura Bilgileri</value>
+  </data>
+  <data name="Fatura Detayları" xml:space="preserve">
+    <value>Fatura Detayları</value>
+  </data>
+  <data name="Fatura Girişi" xml:space="preserve">
+    <value>Fatura Girişi</value>
+  </data>
+  <data name="Fatura Kaydı" xml:space="preserve">
+    <value>Fatura Kaydı</value>
+  </data>
+  <data name="Fatura Kaydı Tamamlandı" xml:space="preserve">
+    <value>Fatura Kaydı Tamamlandı</value>
+  </data>
+  <data name="Fatura Kes" xml:space="preserve">
+    <value>Fatura Kes</value>
+  </data>
+  <data name="Fatura Listesi" xml:space="preserve">
+    <value>Fatura Listesi</value>
+  </data>
+  <data name="Fatura No" xml:space="preserve">
+    <value>Fatura No</value>
+  </data>
+  <data name="Fatura No Ara..." xml:space="preserve">
+    <value>Fatura No Ara...</value>
+  </data>
+  <data name="Fatura numara bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Fatura numara bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Fatura numarası 16 karakterden oluşmalıdır." xml:space="preserve">
+    <value>Fatura numarası 16 karakterden oluşmalıdır.</value>
+  </data>
+  <data name="Fatura numarası, bir harf ile başlamalı ve sonraki 15 karakter rakam olmalıdır." xml:space="preserve">
+    <value>Fatura numarası, bir harf ile başlamalı ve sonraki 15 karakter rakam olmalıdır.</value>
+  </data>
+  <data name="Fatura Oluştur" xml:space="preserve">
+    <value>Fatura Oluştur</value>
+  </data>
+  <data name="Fatura Oluşturma" xml:space="preserve">
+    <value>Fatura Oluşturma</value>
+  </data>
+  <data name="Fatura tarih bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Fatura tarih bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Fatura Tarihi" xml:space="preserve">
+    <value>Fatura Tarihi</value>
+  </data>
+  <data name="Fatura Tipi" xml:space="preserve">
+    <value>Fatura Tipi</value>
+  </data>
+  <data name="Fatura tipi bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Fatura tipi bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Faturalar" xml:space="preserve">
+    <value>Faturalar</value>
+  </data>
+  <data name="Faturayı Oluşturmak İstiyor Musunuz?" xml:space="preserve">
+    <value>Faturayı Oluşturmak İstiyor Musunuz?</value>
+  </data>
+  <data name="Filtre : Ürün" xml:space="preserve">
+    <value>Filtre : Ürün</value>
+  </data>
+  <data name="Filtre:" xml:space="preserve">
+    <value>Filtre:</value>
+  </data>
+  <data name="Firma" xml:space="preserve">
+    <value>Firma</value>
+  </data>
+  <data name="Firma adını giriniz..." xml:space="preserve">
+    <value>Firma adını giriniz...</value>
+  </data>
+  <data name="Firma Bilgileri" xml:space="preserve">
+    <value>Firma Bilgileri</value>
+  </data>
+  <data name="Fiyat" xml:space="preserve">
+    <value>Fiyat</value>
+  </data>
+  <data name="Fiyat Özeti" xml:space="preserve">
+    <value>Fiyat Özeti</value>
+  </data>
+  <data name="Fiyatı" xml:space="preserve">
+    <value>Fiyatı</value>
+  </data>
+  <data name="Fotoğraf Çek" xml:space="preserve">
+    <value>Fotoğraf Çek</value>
+  </data>
+  <data name="Gelen Mesajlar" xml:space="preserve">
+    <value>Gelen Mesajlar</value>
+  </data>
+  <data name="Gelen Teklifler" xml:space="preserve">
+    <value>Gelen Teklifler</value>
+  </data>
+  <data name="Geri Dön" xml:space="preserve">
+    <value>Geri Dön</value>
+  </data>
+  <data name="Geçerli bir ePosta adresi girmediniz." xml:space="preserve">
+    <value>Geçerli bir ePosta adresi girmediniz.</value>
+  </data>
+  <data name="Geçersiz Tarih" xml:space="preserve">
+    <value>Geçersiz Tarih</value>
+  </data>
+  <data name="Geçici Şifre" xml:space="preserve">
+    <value>Geçici Şifre</value>
+  </data>
+  <data name="Giriş" xml:space="preserve">
+    <value>Giriş</value>
+  </data>
+  <data name="Giriş - Ahlatcı Teknoloji - Kurumsal Yönetim Sistemi" xml:space="preserve">
+    <value>Giriş - Ahlatcı Teknoloji - Kurumsal Yönetim Sistemi</value>
+  </data>
+  <data name="Giriş Doğrulama" xml:space="preserve">
+    <value>Giriş Doğrulama</value>
+  </data>
+  <data name="Giriş Ekranına" xml:space="preserve">
+    <value>Giriş Ekranına</value>
+  </data>
+  <data name="Giriş Ekranına Dön" xml:space="preserve">
+    <value>Giriş Ekranına Dön</value>
+  </data>
+  <data name="Giriş Yap" xml:space="preserve">
+    <value>Giriş Yap</value>
+  </data>
+  <data name="Giriş yapmak için kullanıcı ad veya ePostanızı ve şifrenizi giriniz." xml:space="preserve">
+    <value>Giriş yapmak için kullanıcı ad veya ePostanızı ve şifrenizi giriniz.</value>
+  </data>
+  <data name="Giriş İşlemi" xml:space="preserve">
+    <value>Giriş İşlemi</value>
+  </data>
+  <data name="Giriş İşlemi Başarılı." xml:space="preserve">
+    <value>Giriş İşlemi Başarılı.</value>
+  </data>
+  <data name="Giriş İşlemi Başarısız." xml:space="preserve">
+    <value>Giriş İşlemi Başarısız.</value>
+  </data>
+  <data name="Girmiş olduğunuz kod yanlış, yeniden deneyin." xml:space="preserve">
+    <value>Girmiş olduğunuz kod yanlış, yeniden deneyin.</value>
+  </data>
+  <data name="Girmiş olduğunuz TC kimlik numarası kayıtlı." xml:space="preserve">
+    <value>Girmiş olduğunuz TC kimlik numarası kayıtlı.</value>
+  </data>
+  <data name="Girmiş olduğunuz telefon numarası kayıtlı." xml:space="preserve">
+    <value>Girmiş olduğunuz telefon numarası kayıtlı.</value>
+  </data>
+  <data name="Gönder" xml:space="preserve">
+    <value>Gönder</value>
+  </data>
+  <data name="Gönderilen Mesajlar" xml:space="preserve">
+    <value>Gönderilen Mesajlar</value>
+  </data>
+  <data name="Güncelle" xml:space="preserve">
+    <value>Güncelle</value>
+  </data>
+  <data name="Güncelleme İşlemi Başarılı." xml:space="preserve">
+    <value>Güncelleme İşlemi Başarılı.</value>
+  </data>
+  <data name="Güncelleme İşlemi Başarısız." xml:space="preserve">
+    <value>Güncelleme İşlemi Başarısız.</value>
+  </data>
+  <data name="Güvenlik kodu 6 karakterden oluşmalıdır." xml:space="preserve">
+    <value>Güvenlik kodu 6 karakterden oluşmalıdır.</value>
+  </data>
+  <data name="Güvenlik kodu boş bırakılamaz." xml:space="preserve">
+    <value>Güvenlik kodu boş bırakılamaz.</value>
+  </data>
+  <data name="Hata" xml:space="preserve">
+    <value>Hata</value>
+  </data>
+  <data name="Hata Kodu : 404" xml:space="preserve">
+    <value>Hata Kodu : 404</value>
+  </data>
+  <data name="Hata Kodu : 500" xml:space="preserve">
+    <value>Hata Kodu : 500</value>
+  </data>
+  <data name="Hatalı kod." xml:space="preserve">
+    <value>Hatalı kod.</value>
+  </data>
+  <data name="Hayır" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="Herhangi bir sorunuz, öneriniz varsa yahut herhangi bir hatayı bildirmek için bize yazın." xml:space="preserve">
+    <value>Herhangi bir sorunuz, öneriniz varsa yahut herhangi bir hatayı bildirmek için bize yazın.</value>
+  </data>
+  <data name="Hesabım" xml:space="preserve">
+    <value>Hesabım</value>
+  </data>
+  <data name="Hesap Bilgilerim" xml:space="preserve">
+    <value>Hesap Bilgilerim</value>
+  </data>
+  <data name="Hoşgeldiniz" xml:space="preserve">
+    <value>Hoşgeldiniz</value>
+  </data>
+  <data name="Işıklar" xml:space="preserve">
+    <value>Işıklar</value>
+  </data>
+  <data name="Kamera" xml:space="preserve">
+    <value>Kamera</value>
+  </data>
+  <data name="Kamerayı Başlat" xml:space="preserve">
+    <value>Kamerayı Başlat</value>
+  </data>
+  <data name="Kapat" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Kategori" xml:space="preserve">
+    <value>Kategori</value>
+  </data>
+  <data name="Kategori Adı" xml:space="preserve">
+    <value>Kategori Adı</value>
+  </data>
+  <data name="Kategori adı boş bırakılamaz." xml:space="preserve">
+    <value>Kategori adı boş bırakılamaz.</value>
+  </data>
+  <data name="Kategori adı en az 5 karakter olabilir." xml:space="preserve">
+    <value>Kategori adı en az 5 karakter olabilir.</value>
+  </data>
+  <data name="Kategori adı en fazla 100 karakter olabilir." xml:space="preserve">
+    <value>Kategori adı en fazla 100 karakter olabilir.</value>
+  </data>
+  <data name="Kategori Adı ile Ara..." xml:space="preserve">
+    <value>Kategori Adı ile Ara...</value>
+  </data>
+  <data name="Kategori Bilgileri" xml:space="preserve">
+    <value>Kategori Bilgileri</value>
+  </data>
+  <data name="Kategori bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Kategori bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Kategori Ekle" xml:space="preserve">
+    <value>Kategori Ekle</value>
+  </data>
+  <data name="Kategori Ekleme" xml:space="preserve">
+    <value>Kategori Ekleme</value>
+  </data>
+  <data name="Kategori Güncelleme" xml:space="preserve">
+    <value>Kategori Güncelleme</value>
+  </data>
+  <data name="Kategori No" xml:space="preserve">
+    <value>Kategori No</value>
+  </data>
+  <data name="Kategori Seç..." xml:space="preserve">
+    <value>Kategori Seç...</value>
+  </data>
+  <data name="Kategori Seçilmedi." xml:space="preserve">
+    <value>Kategori Seçilmedi.</value>
+  </data>
+  <data name="Kategori Silme" xml:space="preserve">
+    <value>Kategori Silme</value>
+  </data>
+  <data name="Kategori İşlemleri" xml:space="preserve">
+    <value>Kategori İşlemleri</value>
+  </data>
+  <data name="Kaydet" xml:space="preserve">
+    <value>Kaydet</value>
+  </data>
+  <data name="Kaydı silmek istediğinizden emin misiniz?" xml:space="preserve">
+    <value>Kaydı silmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="Kayıt İşlemi Başarılı." xml:space="preserve">
+    <value>Kayıt İşlemi Başarılı.</value>
+  </data>
+  <data name="Kayıt İşlemi Başarısız." xml:space="preserve">
+    <value>Kayıt İşlemi Başarısız.</value>
+  </data>
+  <data name="Kayıtlar" xml:space="preserve">
+    <value>Kayıtlar</value>
+  </data>
+  <data name="KDV" xml:space="preserve">
+    <value>KDV</value>
+  </data>
+  <data name="KDV Oranı" xml:space="preserve">
+    <value>KDV Oranı</value>
+  </data>
+  <data name="Kilit Ekranı" xml:space="preserve">
+    <value>Kilit Ekranı</value>
+  </data>
+  <data name="Kimlik numarasını giriniz..." xml:space="preserve">
+    <value>Kimlik numarasını giriniz...</value>
+  </data>
+  <data name="Kod Doğrulama" xml:space="preserve">
+    <value>Kod Doğrulama</value>
+  </data>
+  <data name="Kod Doğrulama İşlemi Başarılı." xml:space="preserve">
+    <value>Kod Doğrulama İşlemi Başarılı.</value>
+  </data>
+  <data name="Kodu girmek için kalan süre :" xml:space="preserve">
+    <value>Kodu girmek için kalan süre :</value>
+  </data>
+  <data name="Kodu Gönder" xml:space="preserve">
+    <value>Kodu Gönder</value>
+  </data>
+  <data name="Kodunuz yanlış yeniden deneyin." xml:space="preserve">
+    <value>Kodunuz yanlış yeniden deneyin.</value>
+  </data>
+  <data name="Konu" xml:space="preserve">
+    <value>Konu</value>
+  </data>
+  <data name="Kullanıcı Adı" xml:space="preserve">
+    <value>Kullanıcı Adı</value>
+  </data>
+  <data name="Kullanıcı Adı :" xml:space="preserve">
+    <value>Kullanıcı Adı :</value>
+  </data>
+  <data name="Kullanıcı adı bilgisi 5 karakterden büyük olmalıdır." xml:space="preserve">
+    <value>Kullanıcı adı bilgisi 5 karakterden büyük olmalıdır.</value>
+  </data>
+  <data name="Kullanıcı adı bilgisi 50 karakterden büyük olamaz." xml:space="preserve">
+    <value>Kullanıcı adı bilgisi 50 karakterden büyük olamaz.</value>
+  </data>
+  <data name="Kullanıcı adı boş olamaz." xml:space="preserve">
+    <value>Kullanıcı adı boş olamaz.</value>
+  </data>
+  <data name="Kullanıcı Adı veya ePosta adresi en az 5 karakter girilmelidir." xml:space="preserve">
+    <value>Kullanıcı Adı veya ePosta adresi en az 5 karakter girilmelidir.</value>
+  </data>
+  <data name="Kullanıcı Adı veya ePosta adresi en fazla 50 karakter girilmelidir." xml:space="preserve">
+    <value>Kullanıcı Adı veya ePosta adresi en fazla 50 karakter girilmelidir.</value>
+  </data>
+  <data name="Kullanıcı Adını giriniz..." xml:space="preserve">
+    <value>Kullanıcı Adını giriniz...</value>
+  </data>
+  <data name="Kullanıcı adınızı ya da ePosta hesabınızı giriniz." xml:space="preserve">
+    <value>Kullanıcı adınızı ya da ePosta hesabınızı giriniz.</value>
+  </data>
+  <data name="Kullanıcı bilgileriniz güncellenmiştir." xml:space="preserve">
+    <value>Kullanıcı bilgileriniz güncellenmiştir.</value>
+  </data>
+  <data name="Kullanıcı Geçmişi" xml:space="preserve">
+    <value>Kullanıcı Geçmişi</value>
+  </data>
+  <data name="Kullanıcı İşlemleri" xml:space="preserve">
+    <value>Kullanıcı İşlemleri</value>
+  </data>
+  <data name="Kur" xml:space="preserve">
+    <value>Kur</value>
+  </data>
+  <data name="Kurul" xml:space="preserve">
+    <value>Kurul</value>
+  </data>
+  <data name="Kurumsal İşlemler" xml:space="preserve">
+    <value>Kurumsal İşlemler</value>
+  </data>
+  <data name="Liste" xml:space="preserve">
+    <value>Liste</value>
+  </data>
+  <data name="Lütfen en kısa sürede şifrenizi değiştiriniz." xml:space="preserve">
+    <value>Lütfen en kısa sürede şifrenizi değiştiriniz.</value>
+  </data>
+  <data name="Mailinize gelen kodu giriniz." xml:space="preserve">
+    <value>ePostanıza gelen kodu giriniz.</value>
+  </data>
+  <data name="Mesaj" xml:space="preserve">
+    <value>Mesaj</value>
+  </data>
+  <data name="Mesaj Gönder" xml:space="preserve">
+    <value>Mesaj Gönder</value>
+  </data>
+  <data name="Mesaj Gönderildi" xml:space="preserve">
+    <value>Mesaj Gönderildi</value>
+  </data>
+  <data name="Mesaj Oluşturma" xml:space="preserve">
+    <value>Mesaj Oluşturma</value>
+  </data>
+  <data name="Mesaj Yaz" xml:space="preserve">
+    <value>Mesaj Yaz</value>
+  </data>
+  <data name="Mesajlar" xml:space="preserve">
+    <value>Mesajlar</value>
+  </data>
+  <data name="Mesajlaşma" xml:space="preserve">
+    <value>Mesajlaşma</value>
+  </data>
+  <data name="Miktar" xml:space="preserve">
+    <value>Miktar</value>
+  </data>
+  <data name="Miktar/Birim" xml:space="preserve">
+    <value>Miktar/Birim</value>
+  </data>
+  <data name="Miktarı" xml:space="preserve">
+    <value>Miktarı</value>
+  </data>
+  <data name="Muhasebe" xml:space="preserve">
+    <value>Muhasebe</value>
+  </data>
+  <data name="Muhasebe Fatura Girişi" xml:space="preserve">
+    <value>Muhasebe Fatura Girişi</value>
+  </data>
+  <data name="Muhasebe İşlemleri" xml:space="preserve">
+    <value>Muhasebe İşlemleri</value>
+  </data>
+  <data name="Net-Tutar" xml:space="preserve">
+    <value>Net-Tutar</value>
+  </data>
+  <data name="Notlar" xml:space="preserve">
+    <value>Notlar</value>
+  </data>
+  <data name="Notİçi" xml:space="preserve">
+    <value>Tüm alacaklar faturalandırmanın ardından 7 iş günü içinde ödenmelidir. Çek, senet, kredi kartı veya havale yapabilirsiniz. 7 iş günü içerisinde ödenmeme durumunda, üstlenilen işin teyidi olarak verilen kredi bilgileri, yukarıda belirtilen mutabık kalınan ücret üzerinden tahsil edilecektir.</value>
+  </data>
+  <data name="Okundu" xml:space="preserve">
+    <value>Okundu</value>
+  </data>
+  <data name="Okunmadı" xml:space="preserve">
+    <value>Okunmadı</value>
+  </data>
+  <data name="Oluştur" xml:space="preserve">
+    <value>Oluştur</value>
+  </data>
+  <data name="Onay Bekleyen Talepler" xml:space="preserve">
+    <value>Onay Bekleyen Talepler</value>
+  </data>
+  <data name="Onay Bekliyor" xml:space="preserve">
+    <value>Onay Bekliyor</value>
+  </data>
+  <data name="Onay Birimi" xml:space="preserve">
+    <value>Onay Birimi</value>
+  </data>
+  <data name="Onay Tarihi Ve Saati" xml:space="preserve">
+    <value>Onay Tarihi Ve Saati</value>
+  </data>
+  <data name="Onayla" xml:space="preserve">
+    <value>Onayla</value>
+  </data>
+  <data name="Onaylı Talepler" xml:space="preserve">
+    <value>Onaylı Talepler</value>
+  </data>
+  <data name="Para Birimi" xml:space="preserve">
+    <value>Para Birimi</value>
+  </data>
+  <data name="Para birimi bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Para birimi bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Personel adı boş bırakılamaz." xml:space="preserve">
+    <value>Personel adı boş bırakılamaz.</value>
+  </data>
+  <data name="Personel adı en az 3 karakterden oluşabilir." xml:space="preserve">
+    <value>Personel adı en az 3 karakterden oluşabilir.</value>
+  </data>
+  <data name="Personel adı en fazla 50 karakterden oluşabilir." xml:space="preserve">
+    <value>Personel adı en fazla 50 karakterden oluşabilir.</value>
+  </data>
+  <data name="Personel Adı ile Ara..." xml:space="preserve">
+    <value>Personel Adı ile Ara...</value>
+  </data>
+  <data name="Personel Bilgileri" xml:space="preserve">
+    <value>Personel Bilgileri</value>
+  </data>
+  <data name="Personel bilgileri bulunamadı ya da parola hatalıdır." xml:space="preserve">
+    <value>Personel bilgileri bulunamadı ya da parola hatalıdır.</value>
+  </data>
+  <data name="Personel e-posta adresi boş bırakılamaz." xml:space="preserve">
+    <value>Personel e-posta adresi boş bırakılamaz.</value>
+  </data>
+  <data name="Personel e-posta adresi en fazla 50 karakterden oluşabilir." xml:space="preserve">
+    <value>Personel e-posta adresi en fazla 50 karakterden oluşabilir.</value>
+  </data>
+  <data name="Personel Ekle" xml:space="preserve">
+    <value>Personel Ekle</value>
+  </data>
+  <data name="Personel Ekleme" xml:space="preserve">
+    <value>Personel Ekleme</value>
+  </data>
+  <data name="Personel fotografı boş bırakılamaz." xml:space="preserve">
+    <value>Personel fotografı boş bırakılamaz.</value>
+  </data>
+  <data name="Personel Güncelleme" xml:space="preserve">
+    <value>Personel Güncelleme</value>
+  </data>
+  <data name="Personel kayıt işleminiz tamamlandı.   Giriş bilgileriniz :" xml:space="preserve">
+    <value>Personel kayıt işleminiz tamamlandı.   Giriş bilgileriniz :</value>
+  </data>
+  <data name="Personel Silme" xml:space="preserve">
+    <value>Personel Silme</value>
+  </data>
+  <data name="Personel soyadı boş bırakılamaz." xml:space="preserve">
+    <value>Personel soyadı boş bırakılamaz.</value>
+  </data>
+  <data name="Personel soyadı en az 3 karakterden oluşabilir." xml:space="preserve">
+    <value>Personel soyadı en az 3 karakterden oluşabilir.</value>
+  </data>
+  <data name="Personel soyadı en fazla 50 karakterden oluşabilir." xml:space="preserve">
+    <value>Personel soyadı en fazla 50 karakterden oluşabilir.</value>
+  </data>
+  <data name="Personel TC kimlik numarası 11 karakterden oluşmalıdır." xml:space="preserve">
+    <value>Personel TC kimlik numarası 11 karakterden oluşmalıdır.</value>
+  </data>
+  <data name="Personel TC kimlik numarası boş bırakılamaz." xml:space="preserve">
+    <value>Personel TC kimlik numarası boş bırakılamaz.</value>
+  </data>
+  <data name="Personel telefon numarası 11 karakterden oluşmalıdır." xml:space="preserve">
+    <value>Personel telefon numarası 11 karakterden oluşmalıdır.</value>
+  </data>
+  <data name="Personel telefon numarası boş bırakılamaz." xml:space="preserve">
+    <value>Personel telefon numarası boş bırakılamaz.</value>
+  </data>
+  <data name="Personel İşlemleri" xml:space="preserve">
+    <value>Personel İşlemleri</value>
+  </data>
+  <data name="Rapor" xml:space="preserve">
+    <value>Rapor</value>
+  </data>
+  <data name="Rapor Bilgileri" xml:space="preserve">
+    <value>Rapor Bilgileri</value>
+  </data>
+  <data name="Rapor Listesi" xml:space="preserve">
+    <value>Rapor Listesi</value>
+  </data>
+  <data name="Raporu Oku" xml:space="preserve">
+    <value>Raporu Oku</value>
+  </data>
+  <data name="Reddedilen Talepler" xml:space="preserve">
+    <value>Reddedilen Talepler</value>
+  </data>
+  <data name="Reddet" xml:space="preserve">
+    <value>Reddet</value>
+  </data>
+  <data name="Resim" xml:space="preserve">
+    <value>Resim</value>
+  </data>
+  <data name="Resim yüklemek için aşağıdaki yükleme butonuna tıklayınız." xml:space="preserve">
+    <value>Resim yüklemek için aşağıdaki yükleme butonuna tıklayınız.</value>
+  </data>
+  <data name="Rol" xml:space="preserve">
+    <value>Rol</value>
+  </data>
+  <data name="Rol Adı" xml:space="preserve">
+    <value>Rol Adı</value>
+  </data>
+  <data name="Rol adı en az 5 karakterden oluşabilir." xml:space="preserve">
+    <value>Rol adı en az 5 karakterden oluşabilir.</value>
+  </data>
+  <data name="Rol adı en fazla 50 karakterden oluşabilir." xml:space="preserve">
+    <value>Rol adı en fazla 50 karakterden oluşabilir.</value>
+  </data>
+  <data name="Rol Bilgileri" xml:space="preserve">
+    <value>Rol Bilgileri</value>
+  </data>
+  <data name="Rol bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Rol bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Rol Ekleme" xml:space="preserve">
+    <value>Rol Ekleme</value>
+  </data>
+  <data name="Rol Güncelleme" xml:space="preserve">
+    <value>Rol Güncelleme</value>
+  </data>
+  <data name="Rol Seç..." xml:space="preserve">
+    <value>Rol Seç...</value>
+  </data>
+  <data name="Rol Seçilmedi." xml:space="preserve">
+    <value>Rol Seçilmedi.</value>
+  </data>
+  <data name="Rol Silme" xml:space="preserve">
+    <value>Rol Silme</value>
+  </data>
+  <data name="Rol İşlemleri" xml:space="preserve">
+    <value>Rol İşlemleri</value>
+  </data>
+  <data name="Satın Alma Teklif Girme Saati" xml:space="preserve">
+    <value>Satın Alma Teklif Girme Saati</value>
+  </data>
+  <data name="Satın Alma İkmali" xml:space="preserve">
+    <value>Satın Alma İkmali</value>
+  </data>
+  <data name="Sayfa Bulunamadı" xml:space="preserve">
+    <value>Sayfa Bulunamadı</value>
+  </data>
+  <data name="Sayfa geliştirme sürecinde." xml:space="preserve">
+    <value>Sayfa geliştirme sürecinde.</value>
+  </data>
+  <data name="Sayın" xml:space="preserve">
+    <value>Sayın</value>
+  </data>
+  <data name="Sayın {createUserVM.EmployeeName.ToUpper()} {createUserVM.EmployeeSurname.ToUpper()}.  Personel kayıt işleminiz tamamlandı.   Giriş bilgileriniz :     Kullanıcı adı :{createUserVM.Email}  Şifreniz : {createUserVM.UserPassword} Lütfen en kısa sürede şifrenizi değiştiriniz." xml:space="preserve">
+    <value>Sayın {createUserVM.EmployeeName.ToUpper()} {createUserVM.EmployeeSurname.ToUpper()}.  Personel kayıt işleminiz tamamlandı.   Giriş bilgileriniz :     Kullanıcı adı :{createUserVM.Email}  Şifreniz : {createUserVM.UserPassword} Lütfen en kısa sürede şifrenizi değiştiriniz.</value>
+  </data>
+  <data name="Sayın {employee.EmployeeName.ToUpper()} {employee.EmployeeSurname.ToUpper()}. Şifre güncelleme işlemi başarılı bir şekilde tamamlanmıştır.Güncelleme işlemi size ait değil ise, lütfen şifrenizi güncelleyiniz." xml:space="preserve">
+    <value>Sayın {employee.EmployeeName.ToUpper()} {employee.EmployeeSurname.ToUpper()}. Şifre güncelleme işlemi başarılı bir şekilde tamamlanmıştır.Güncelleme işlemi size ait değil ise, lütfen şifrenizi güncelleyiniz.</value>
+  </data>
+  <data name="Sayın {employee.EmployeeName.ToUpper()} {employee.EmployeeSurname.ToUpper()}. Şifre güncelleme işlemi başarılı bir şekilde tamamlanmıştır.Güncelleme işlemi size ait değil ise, lütfen şifrenizi güncelleyiniz.1" xml:space="preserve">
+    <value>Sayın {employee.EmployeeName.ToUpper()} {employee.EmployeeSurname.ToUpper()}. Şifre güncelleme işlemi başarılı bir şekilde tamamlanmıştır.Güncelleme işlemi size ait değil ise, lütfen şifrenizi güncelleyiniz.</value>
+  </data>
+  <data name="Selam!" xml:space="preserve">
+    <value>Selam!</value>
+  </data>
+  <data name="Sepet" xml:space="preserve">
+    <value>Sepet</value>
+  </data>
+  <data name="Sil" xml:space="preserve">
+    <value>Sil</value>
+  </data>
+  <data name="Silme İşlemi Başarılı." xml:space="preserve">
+    <value>Silme İşlemi Başarılı.</value>
+  </data>
+  <data name="Silme İşlemi Başarısız." xml:space="preserve">
+    <value>Silme İşlemi Başarısız.</value>
+  </data>
+  <data name="Siparişler" xml:space="preserve">
+    <value>Siparişler</value>
+  </data>
+  <data name="Sisteme giriş yapabilmek için doğrulama kodunuz :" xml:space="preserve">
+    <value>Sisteme giriş yapabilmek için doğrulama kodunuz :</value>
+  </data>
+  <data name="Sistemi daha iyi yapmak için uğraş halindeyiz." xml:space="preserve">
+    <value>Sistemi daha iyi yapmak için uğraş halindeyiz.</value>
+  </data>
+  <data name="Soyad" xml:space="preserve">
+    <value>Soyad</value>
+  </data>
+  <data name="Soyadı" xml:space="preserve">
+    <value>Soyadı</value>
+  </data>
+  <data name="Soyadı giriniz..." xml:space="preserve">
+    <value>Soyadı giriniz...</value>
+  </data>
+  <data name="Sterlin" xml:space="preserve">
+    <value>Sterlin</value>
+  </data>
+  <data name="Stok Bilgisi" xml:space="preserve">
+    <value>Stok Bilgisi</value>
+  </data>
+  <data name="Stok Giriş/Çıkış" xml:space="preserve">
+    <value>Stok Giriş/Çıkış</value>
+  </data>
+  <data name="Stok Girişi" xml:space="preserve">
+    <value>Stok Girişi</value>
+  </data>
+  <data name="Stok Girişi Yapıldı." xml:space="preserve">
+    <value>Stok Girişi Yapıldı.</value>
+  </data>
+  <data name="Stok Hareketleri" xml:space="preserve">
+    <value>Stok Hareketleri</value>
+  </data>
+  <data name="Stok Kayıtları" xml:space="preserve">
+    <value>Stok Kayıtları</value>
+  </data>
+  <data name="Stok No Ara..." xml:space="preserve">
+    <value>Stok No Ara...</value>
+  </data>
+  <data name="Stok Çıkış" xml:space="preserve">
+    <value>Stok Çıkış</value>
+  </data>
+  <data name="Stok Çıkış Bilgileri" xml:space="preserve">
+    <value>Stok Çıkış Bilgileri</value>
+  </data>
+  <data name="Stok Çıkışı Yapıldı." xml:space="preserve">
+    <value>Stok Çıkışı Yapıldı.</value>
+  </data>
+  <data name="Stok İşlemleri" xml:space="preserve">
+    <value>Stok İşlemleri</value>
+  </data>
+  <data name="Sunucu Bağlantısı Kurulamadı" xml:space="preserve">
+    <value>Sunucu Bağlantısı Kurulamadı</value>
+  </data>
+  <data name="Sunucu Bağlantısı Kurulamadı." xml:space="preserve">
+    <value>Sunucu Bağlantısı Kurulamadı.</value>
+  </data>
+  <data name="Süreç Raporları" xml:space="preserve">
+    <value>Süreç Raporları</value>
+  </data>
+  <data name="Sıra" xml:space="preserve">
+    <value>Sıra</value>
+  </data>
+  <data name="Talebi Onayla" xml:space="preserve">
+    <value>Talebi Onayla</value>
+  </data>
+  <data name="Talebi Reddet" xml:space="preserve">
+    <value>Talebi Reddet</value>
+  </data>
+  <data name="Talep" xml:space="preserve">
+    <value>Talep</value>
+  </data>
+  <data name="Talep Bilgileri" xml:space="preserve">
+    <value>Talep Bilgileri</value>
+  </data>
+  <data name="Talep bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Talep bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Talep Birimi" xml:space="preserve">
+    <value>Talep Birimi</value>
+  </data>
+  <data name="Talep Edilen Ürünler" xml:space="preserve">
+    <value>Talep Edilen Ürünler</value>
+  </data>
+  <data name="Talep Kayıtları" xml:space="preserve">
+    <value>Talep Kayıtları</value>
+  </data>
+  <data name="Talep Listesi" xml:space="preserve">
+    <value>Talep Listesi</value>
+  </data>
+  <data name="Talep No" xml:space="preserve">
+    <value>Talep No</value>
+  </data>
+  <data name="Talep No :" xml:space="preserve">
+    <value>Talep No :</value>
+  </data>
+  <data name="Talep No Ara..." xml:space="preserve">
+    <value>Talep No Ara...</value>
+  </data>
+  <data name="Talep No Seç..." xml:space="preserve">
+    <value>Talep No Seç...</value>
+  </data>
+  <data name="Talep Oluştur" xml:space="preserve">
+    <value>Talep Oluştur</value>
+  </data>
+  <data name="Talep Oluşturulma Tarihi" xml:space="preserve">
+    <value>Talep Oluşturulma Tarihi</value>
+  </data>
+  <data name="Talep Onay" xml:space="preserve">
+    <value>Talep Onayla</value>
+  </data>
+  <data name="Talep Onayla" xml:space="preserve">
+    <value>Talep Onayla</value>
+  </data>
+  <data name="Talep Onaylandı" xml:space="preserve">
+    <value>Talep Onaylandı</value>
+  </data>
+  <data name="Talep Raporları" xml:space="preserve">
+    <value>Talep Raporları</value>
+  </data>
+  <data name="Talep Reddedildi" xml:space="preserve">
+    <value>Talep Reddedildi</value>
+  </data>
+  <data name="Talep Reddi" xml:space="preserve">
+    <value>Talep Reddi</value>
+  </data>
+  <data name="Talep Seç..." xml:space="preserve">
+    <value>Talep Seç...</value>
+  </data>
+  <data name="Talep Seçilmedi." xml:space="preserve">
+    <value>Talep Seçilmedi.</value>
+  </data>
+  <data name="Talep Tarihi" xml:space="preserve">
+    <value>Talep Tarihi</value>
+  </data>
+  <data name="Talep Tarihi Ve Saati" xml:space="preserve">
+    <value>Talep Tarihi Ve Saati</value>
+  </data>
+  <data name="Talepler" xml:space="preserve">
+    <value>Talepler</value>
+  </data>
+  <data name="Tamamlanan" xml:space="preserve">
+    <value>Tamamlanan</value>
+  </data>
+  <data name="Tarih" xml:space="preserve">
+    <value>Tarih</value>
+  </data>
+  <data name="Tedarikçi" xml:space="preserve">
+    <value>Tedarikçi</value>
+  </data>
+  <data name="Tedarikçi Adı" xml:space="preserve">
+    <value>Tedarikçi Adı</value>
+  </data>
+  <data name="Tedarikçi adı boş bırakılamaz." xml:space="preserve">
+    <value>Tedarikçi adı boş bırakılamaz.</value>
+  </data>
+  <data name="Tedarikçi adı en az 5 karakterden oluşabilir." xml:space="preserve">
+    <value>Tedarikçi adı en az 5 karakterden oluşabilir.</value>
+  </data>
+  <data name="Tedarikçi adı en fazla 50 karakterden oluşabilir." xml:space="preserve">
+    <value>Tedarikçi adı en fazla 50 karakterden oluşabilir.</value>
+  </data>
+  <data name="Tedarikçi bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Tedarikçi bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Tedarikçi e-posta adresi boş bırakılamaz." xml:space="preserve">
+    <value>Tedarikçi e-posta adresi boş bırakılamaz.</value>
+  </data>
+  <data name="Tedarikçi e-posta adresi en az 5 karakterden oluşabilir." xml:space="preserve">
+    <value>Tedarikçi e-posta adresi en az 5 karakterden oluşabilir.</value>
+  </data>
+  <data name="Tedarikçi e-posta adresi en fazla 50 karakterden oluşabilir." xml:space="preserve">
+    <value>Tedarikçi e-posta adresi en fazla 50 karakterden oluşabilir.</value>
+  </data>
+  <data name="Tedarikçi Ekle" xml:space="preserve">
+    <value>Tedarikçi Ekle</value>
+  </data>
+  <data name="Tedarikçi Ekleme" xml:space="preserve">
+    <value>Tedarikçi Ekleme</value>
+  </data>
+  <data name="Tedarikçi Firma" xml:space="preserve">
+    <value>Tedarikçi Firma</value>
+  </data>
+  <data name="Tedarikçi Firma Ara..." xml:space="preserve">
+    <value>Tedarikçi Firma Ara...</value>
+  </data>
+  <data name="Tedarikçi Firma Listesi" xml:space="preserve">
+    <value>Tedarikçi Firma Listesi</value>
+  </data>
+  <data name="Tedarikçi Firma Seçilmedi." xml:space="preserve">
+    <value>Tedarikçi Firma Seçilmedi.</value>
+  </data>
+  <data name="Tedarikçi Firmayı Seç..." xml:space="preserve">
+    <value>Tedarikçi Firmayı Seç...</value>
+  </data>
+  <data name="Tedarikçi Güncelleme" xml:space="preserve">
+    <value>Tedarikçi Güncelleme</value>
+  </data>
+  <data name="Tedarikçi Listesi : Ürün" xml:space="preserve">
+    <value>Tedarikçi Listesi : Ürün</value>
+  </data>
+  <data name="Tedarikçi Seçilmedi." xml:space="preserve">
+    <value>Tedarikçi Seçilmedi.</value>
+  </data>
+  <data name="Tedarikçi Silme" xml:space="preserve">
+    <value>Tedarikçi Silme</value>
+  </data>
+  <data name="Tedarikçi telefon numarası boş bırakılamaz." xml:space="preserve">
+    <value>Tedarikçi telefon numarası boş bırakılamaz.</value>
+  </data>
+  <data name="Tedarikçi telefon numarası en fazla 11 karakterden oluşabilir." xml:space="preserve">
+    <value>Tedarikçi telefon numarası en fazla 11 karakterden oluşabilir.</value>
+  </data>
+  <data name="Tedarikçi Telefonu" xml:space="preserve">
+    <value>Tedarikçi Telefonu</value>
+  </data>
+  <data name="TEDARİKÇİ" xml:space="preserve">
+    <value>TEDARİKÇİ</value>
+  </data>
+  <data name="Tederikçi" xml:space="preserve">
+    <value>Tederikçi</value>
+  </data>
+  <data name="Teklif" xml:space="preserve">
+    <value>Teklif</value>
+  </data>
+  <data name="Teklif Alındı" xml:space="preserve">
+    <value>Teklif Alındı</value>
+  </data>
+  <data name="Teklif Alınıyor..." xml:space="preserve">
+    <value>Teklif Alınıyor...</value>
+  </data>
+  <data name="Teklif Bilgileri" xml:space="preserve">
+    <value>Teklif Bilgileri</value>
+  </data>
+  <data name="Teklif Gir" xml:space="preserve">
+    <value>Teklif Gir</value>
+  </data>
+  <data name="Teklif Girişlerini Sonlandır." xml:space="preserve">
+    <value>Teklif Girişlerini Sonlandır.</value>
+  </data>
+  <data name="Teklif Girişlerini Sonlandırmak İstiyor Musunuz?" xml:space="preserve">
+    <value>Teklif Girişlerini Sonlandırmak İstiyor Musunuz?</value>
+  </data>
+  <data name="Teklif Kayıtları" xml:space="preserve">
+    <value>Teklif Kayıtları</value>
+  </data>
+  <data name="Teklif Onay" xml:space="preserve">
+    <value>Teklif Onay</value>
+  </data>
+  <data name="Teklif Onay..." xml:space="preserve">
+    <value>Teklif Onay...</value>
+  </data>
+  <data name="Teklif Onayla" xml:space="preserve">
+    <value>Teklif Onayla</value>
+  </data>
+  <data name="Teklif Onaylandı" xml:space="preserve">
+    <value>Teklif Onaylandı</value>
+  </data>
+  <data name="Teklif Reddedildi" xml:space="preserve">
+    <value>Teklif Reddedildi</value>
+  </data>
+  <data name="Teklif Reddi" xml:space="preserve">
+    <value>Teklif Reddi</value>
+  </data>
+  <data name="Teklif Seçilmedi." xml:space="preserve">
+    <value>Teklif Seçilmedi.</value>
+  </data>
+  <data name="Teklif Tarihi" xml:space="preserve">
+    <value>Teklif Tarihi</value>
+  </data>
+  <data name="Teklif tutarı boş bırakılamaz." xml:space="preserve">
+    <value>Teklif tutarı boş bırakılamaz.</value>
+  </data>
+  <data name="Teklif tutarı sıfırdan büyük bir değer olmalıdır." xml:space="preserve">
+    <value>Teklif tutarı sıfırdan büyük bir değer olmalıdır.</value>
+  </data>
+  <data name="Teklifi Oluştur" xml:space="preserve">
+    <value>Teklifi Oluştur</value>
+  </data>
+  <data name="Teklifi Onaylaylıyor Musunuz?" xml:space="preserve">
+    <value>Teklifi Onaylaylıyor Musunuz?</value>
+  </data>
+  <data name="Teklifi Reddetmek İstiyor Musunuz?" xml:space="preserve">
+    <value>Teklifi Reddetmek İstiyor Musunuz?</value>
+  </data>
+  <data name="Teklifler" xml:space="preserve">
+    <value>Teklifler</value>
+  </data>
+  <data name="Teklifleri Sonlandır" xml:space="preserve">
+    <value>Teklifleri Sonlandır</value>
+  </data>
+  <data name="Tekrar Görüşmek Üzere!" xml:space="preserve">
+    <value>Tekrar Görüşmek Üzere!</value>
+  </data>
+  <data name="Telefon" xml:space="preserve">
+    <value>Telefon</value>
+  </data>
+  <data name="Telefon numarasını giriniz..." xml:space="preserve">
+    <value>Telefon numarasını giriniz...</value>
+  </data>
+  <data name="Toplam Fiyat" xml:space="preserve">
+    <value>Toplam Fiyat</value>
+  </data>
+  <data name="Toplam TL Fiyatı" xml:space="preserve">
+    <value>Toplam TL Fiyatı</value>
+  </data>
+  <data name="Tutar" xml:space="preserve">
+    <value>Tutar</value>
+  </data>
+  <data name="Tüm Kategoriler" xml:space="preserve">
+    <value>Tüm Kategoriler</value>
+  </data>
+  <data name="Tüm Şirketler" xml:space="preserve">
+    <value>Tüm Şirketler</value>
+  </data>
+  <data name="Türk Lirası" xml:space="preserve">
+    <value>Türk Lirası</value>
+  </data>
+  <data name="Uygulamalar" xml:space="preserve">
+    <value>Uygulamalar</value>
+  </data>
+  <data name="Vazgeç" xml:space="preserve">
+    <value>Vazgeç</value>
+  </data>
+  <data name="Yapılacak İşler" xml:space="preserve">
+    <value>Yapılacak İşler</value>
+  </data>
+  <data name="Yapılacaklar" xml:space="preserve">
+    <value>Yapılacaklar</value>
+  </data>
+  <data name="Yapılan İşlemler" xml:space="preserve">
+    <value>Yapılan İşlemler</value>
+  </data>
+  <data name="Yazdır" xml:space="preserve">
+    <value>Yazdır</value>
+  </data>
+  <data name="Yeni" xml:space="preserve">
+    <value>Yeni</value>
+  </data>
+  <data name="Yeni Kod Gönder" xml:space="preserve">
+    <value>Yeni Kod Gönder</value>
+  </data>
+  <data name="Yeni Mesaj Gönder" xml:space="preserve">
+    <value>Yeni Mesaj Gönder</value>
+  </data>
+  <data name="Yeni Şifreniz:" xml:space="preserve">
+    <value>Yeni Şifreniz:</value>
+  </data>
+  <data name="Yeni Şifrenizi Giriniz" xml:space="preserve">
+    <value>Yeni Şifrenizi Giriniz</value>
+  </data>
+  <data name="Yeni Şirket" xml:space="preserve">
+    <value>Yeni Şirket</value>
+  </data>
+  <data name="Yetki" xml:space="preserve">
+    <value>Yetki</value>
+  </data>
+  <data name="Yetki Adı" xml:space="preserve">
+    <value>Yetki Adı</value>
+  </data>
+  <data name="Yetki adı boş bırakılamaz." xml:space="preserve">
+    <value>Yetki adı boş bırakılamaz.</value>
+  </data>
+  <data name="Yetki adı en az 5 karakterden oluşmalıdır." xml:space="preserve">
+    <value>Yetki adı en az 5 karakterden oluşmalıdır.</value>
+  </data>
+  <data name="Yetki adı en fazla 50 karakterden oluşabilir." xml:space="preserve">
+    <value>Yetki adı en fazla 50 karakterden oluşabilir.</value>
+  </data>
+  <data name="Yetki Bilgileri" xml:space="preserve">
+    <value>Yetki Adı</value>
+  </data>
+  <data name="Yetki bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Yetki bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Yetki Ekle" xml:space="preserve">
+    <value>Yetki İşlemleri</value>
+  </data>
+  <data name="Yetki Seç..." xml:space="preserve">
+    <value>Yetki Seç...</value>
+  </data>
+  <data name="Yetki Seçilmedi." xml:space="preserve">
+    <value>Yetki Seçilmedi.</value>
+  </data>
+  <data name="Yetki süren doldu, tekrardan aktif olmak için giriş yap." xml:space="preserve">
+    <value>Yetki süren doldu, tekrardan aktif olmak için giriş yap.</value>
+  </data>
+  <data name="Yetki İşlemleri" xml:space="preserve">
+    <value>Yetki İşlemleri</value>
+  </data>
+  <data name="Yönetim" xml:space="preserve">
+    <value>Yönetim</value>
+  </data>
+  <data name="Yönetim Onay Saati" xml:space="preserve">
+    <value>Yönetim Onay Saati</value>
+  </data>
+  <data name="© Kurumsal Yönetim Sistemi - Ahlatcı Teknoloji" xml:space="preserve">
+    <value>© Kurumsal Yönetim Sistemi - Ahlatcı Teknoloji</value>
+  </data>
+  <data name="ÇALIŞAN" xml:space="preserve">
+    <value>ÇALIŞAN</value>
+  </data>
+  <data name="Çalışan" xml:space="preserve">
+    <value>Çalışan</value>
+  </data>
+  <data name="Çıkar" xml:space="preserve">
+    <value>Çıkar</value>
+  </data>
+  <data name="Çıkış - Ahlatcı Teknoloji - Kurumsal Yönetim Sistemi" xml:space="preserve">
+    <value>Çıkış - Ahlatcı Teknoloji - Kurumsal Yönetim Sistemi</value>
+  </data>
+  <data name="Çıkış Adedi" xml:space="preserve">
+    <value>Çıkış Adedi</value>
+  </data>
+  <data name="Çıkış Yap" xml:space="preserve">
+    <value>Çıkış Yap</value>
+  </data>
+  <data name="Ön Panel" xml:space="preserve">
+    <value>Ön Panel</value>
+  </data>
+  <data name="Ürün" xml:space="preserve">
+    <value>Ürün</value>
+  </data>
+  <data name="Ürün adedi 0 olamaz." xml:space="preserve">
+    <value>Ürün adedi 0 olamaz.</value>
+  </data>
+  <data name="Ürün Adı" xml:space="preserve">
+    <value>Ürün Adı</value>
+  </data>
+  <data name="Ürün adı boş bırakılamaz." xml:space="preserve">
+    <value>Ürün adı boş bırakılamaz.</value>
+  </data>
+  <data name="Ürün adı en az 2 karakterden oluşabilir." xml:space="preserve">
+    <value>Ürün adı en az 2 karakterden oluşabilir.</value>
+  </data>
+  <data name="Ürün adı en fazla 50 karakterden oluşabilir." xml:space="preserve">
+    <value>Ürün adı en fazla 50 karakterden oluşabilir.</value>
+  </data>
+  <data name="Ürün Adı ile Ara..." xml:space="preserve">
+    <value>Ürün Adı ile Ara...</value>
+  </data>
+  <data name="Ürün Ara..." xml:space="preserve">
+    <value>Ürün Ara...</value>
+  </data>
+  <data name="Ürün Bilgileri" xml:space="preserve">
+    <value>Ürün Bilgileri</value>
+  </data>
+  <data name="Ürün Ekle" xml:space="preserve">
+    <value>Ürün Ekle</value>
+  </data>
+  <data name="Ürün Ekleme" xml:space="preserve">
+    <value>Ürün Ekleme</value>
+  </data>
+  <data name="Ürün Güncelleme" xml:space="preserve">
+    <value>Ürün Güncelleme</value>
+  </data>
+  <data name="Ürün resim bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Ürün resim bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Ürün Resmi" xml:space="preserve">
+    <value>Ürün Resmi</value>
+  </data>
+  <data name="Ürün Seç..." xml:space="preserve">
+    <value>Ürün Seç...</value>
+  </data>
+  <data name="Ürün Silme" xml:space="preserve">
+    <value>Ürün Silme</value>
+  </data>
+  <data name="Ürün Stok Girişi" xml:space="preserve">
+    <value>Ürün Stok Girişi</value>
+  </data>
+  <data name="Ürün İşlemleri" xml:space="preserve">
+    <value>Ürün İşlemleri</value>
+  </data>
+  <data name="Ürünler" xml:space="preserve">
+    <value>Ürünler</value>
+  </data>
+  <data name="Ürünü Ekle" xml:space="preserve">
+    <value>Ürünü Ekle</value>
+  </data>
+  <data name="Ürünü Seç..." xml:space="preserve">
+    <value>Ürünü Seç...</value>
+  </data>
+  <data name="İade" xml:space="preserve">
+    <value>İade</value>
+  </data>
+  <data name="İndirim" xml:space="preserve">
+    <value>İndirim</value>
+  </data>
+  <data name="İndirim Tutarı" xml:space="preserve">
+    <value>İndirim Tutarı</value>
+  </data>
+  <data name="İndirim tutarı sıfır veya daha büyük bir tutar olmalıdır." xml:space="preserve">
+    <value>İndirim tutarı sıfır veya daha büyük bir tutar olmalıdır.</value>
+  </data>
+  <data name="İçerik" xml:space="preserve">
+    <value>İçerik</value>
+  </data>
+  <data name="İşlem" xml:space="preserve">
+    <value>İşlem</value>
+  </data>
+  <data name="İşlem Başarılı" xml:space="preserve">
+    <value>İşlem Başarılı</value>
+  </data>
+  <data name="İşlem Başarısız." xml:space="preserve">
+    <value>İşlem Başarısız.</value>
+  </data>
+  <data name="İşlem Sırasında Hata Oluştu." xml:space="preserve">
+    <value>İşlem Sırasında Hata Oluştu.</value>
+  </data>
+  <data name="İşlem Tarihi" xml:space="preserve">
+    <value>İşlem Tarihi</value>
+  </data>
+  <data name="İşlem Tipi" xml:space="preserve">
+    <value>İşlem Tipi</value>
+  </data>
+  <data name="İşlemler" xml:space="preserve">
+    <value>İşlemler</value>
+  </data>
+  <data name="Şifre" xml:space="preserve">
+    <value>Şifre</value>
+  </data>
+  <data name="Şifre :" xml:space="preserve">
+    <value>Şifre :</value>
+  </data>
+  <data name="Şifre boş olamaz." xml:space="preserve">
+    <value>Şifre boş olamaz.</value>
+  </data>
+  <data name="Şifre Değişikliği" xml:space="preserve">
+    <value>Şifre Değişikliği</value>
+  </data>
+  <data name="Şifre en az 8 karakter girilmelidir." xml:space="preserve">
+    <value>Şifre en az 8 karakter girilmelidir.</value>
+  </data>
+  <data name="Şifre en az 8 karakterden olabilir." xml:space="preserve">
+    <value>Şifre en az 8 karakterden olabilir.</value>
+  </data>
+  <data name="Şifre en az bir küçük harf, bir büyük harf, bir rakam ve bir özel karakter içermelidir." xml:space="preserve">
+    <value>Şifre en az bir küçük harf, bir büyük harf, bir rakam ve bir özel karakter içermelidir.</value>
+  </data>
+  <data name="Şifre en fazla 16 karakter girilmelidir." xml:space="preserve">
+    <value>Şifre en fazla 16 karakter girilmelidir.</value>
+  </data>
+  <data name="Şifre giriniz..." xml:space="preserve">
+    <value>Şifre giriniz...</value>
+  </data>
+  <data name="Şifre güncelleme işlemi başarılı bir şekilde tamamlanmıştır.Güncelleme işlemi size ait değil ise, lütfen şifrenizi güncelleyiniz." xml:space="preserve">
+    <value>Şifre güncelleme işlemi başarılı bir şekilde tamamlanmıştır.Güncelleme işlemi size ait değil ise, lütfen şifrenizi güncelleyiniz.</value>
+  </data>
+  <data name="Şifre Kurtarma Paneli" xml:space="preserve">
+    <value>Şifre Kurtarma Paneli</value>
+  </data>
+  <data name="Şifre Yenileme" xml:space="preserve">
+    <value>Şifre Yenileme</value>
+  </data>
+  <data name="Şifremi Güncelle" xml:space="preserve">
+    <value>Şifremi Güncelle</value>
+  </data>
+  <data name="Şifremi Unuttum" xml:space="preserve">
+    <value>Şifremi Unuttum</value>
+  </data>
+  <data name="Şifreni Sıfırla" xml:space="preserve">
+    <value>Şifreni Sıfırla</value>
+  </data>
+  <data name="Şifrenizi Giriniz." xml:space="preserve">
+    <value>Şifrenizi Giriniz.</value>
+  </data>
+  <data name="Şifrenizi giriniz..." xml:space="preserve">
+    <value>Şifrenizi giriniz...</value>
+  </data>
+  <data name="Şifrenizi mi unuttunuz?" xml:space="preserve">
+    <value>Şifrenizi mi unuttunuz?</value>
+  </data>
+  <data name="Şifreyi Sıfırla" xml:space="preserve">
+    <value>Şifreyi Sıfırla</value>
+  </data>
+  <data name="Şirket" xml:space="preserve">
+    <value>Şirket</value>
+  </data>
+  <data name="Şirket Adı" xml:space="preserve">
+    <value>Şirket Adı</value>
+  </data>
+  <data name="Şirket adı boş bırakılamaz." xml:space="preserve">
+    <value>Şirket adı boş bırakılamaz.</value>
+  </data>
+  <data name="Şirket adı en az 5 karakterden oluşmalıdır." xml:space="preserve">
+    <value>Şirket adı en az 5 karakterden oluşmalıdır.</value>
+  </data>
+  <data name="Şirket adı en fazla 50 karakterden oluşabilir." xml:space="preserve">
+    <value>Şirket adı en fazla 50 karakterden oluşabilir.</value>
+  </data>
+  <data name="Şirket Adı ile Ara..." xml:space="preserve">
+    <value>Şirket Adı ile Ara...</value>
+  </data>
+  <data name="Şirket Bilgileri" xml:space="preserve">
+    <value>Şirket Bilgileri</value>
+  </data>
+  <data name="Şirket bilgisi boş bırakılamaz." xml:space="preserve">
+    <value>Şirket bilgisi boş bırakılamaz.</value>
+  </data>
+  <data name="Şirket Ekle" xml:space="preserve">
+    <value>Şirket Ekle</value>
+  </data>
+  <data name="Şirket Ekleme" xml:space="preserve">
+    <value>Şirket Ekleme</value>
+  </data>
+  <data name="Şirket Güncelleme" xml:space="preserve">
+    <value>Şirket Güncelleme</value>
+  </data>
+  <data name="Şirket No" xml:space="preserve">
+    <value>Şirket No</value>
+  </data>
+  <data name="Şirket numarası 6 karakterden oluşabilir." xml:space="preserve">
+    <value>Şirket numarası 6 karakterden oluşabilir.</value>
+  </data>
+  <data name="Şirket numarası boş bırakılamaz." xml:space="preserve">
+    <value>Şirket numarası boş bırakılamaz.</value>
+  </data>
+  <data name="Şirket Seç..." xml:space="preserve">
+    <value>Şirket Seç...</value>
+  </data>
+  <data name="Şirket Seçilmedi." xml:space="preserve">
+    <value>Şirket Seçilmedi.</value>
+  </data>
+  <data name="Şirket Silme" xml:space="preserve">
+    <value>Şirket Silme</value>
+  </data>
+  <data name="Şirket İşlemleri" xml:space="preserve">
+    <value>Şirket İşlemleri</value>
+  </data>
+</root>

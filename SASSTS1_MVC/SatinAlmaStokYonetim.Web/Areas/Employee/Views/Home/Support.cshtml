@@ -1,0 +1,43 @@
+﻿
+<div class="card border border-light">
+    <div class="card-body">
+        
+        <div class="row contactus">
+            <div class="col-12 logolight">
+                <img src="@_localization.GetImagePath("contactus_dark.png")" style="width: 100%;">
+            </div>
+            <div class="col-12 logodark">
+                <img src="@_localization.GetImagePath("contactus.png")" style="width: 100%;">
+            </div>
+        </div>
+        <p class="text-muted font-20">
+            @_localization.Getkey("Herhangi bir sorunuz, öneriniz varsa yahut herhangi bir hatayı bildirmek için bize yazın.").Value 
+        </p>
+        <div class="tab-content">
+            <div class="tab-pane show active" id="input-types-preview">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <form>
+                            <div class="card">
+                                
+                                <div class="card-body col-8">
+                                    <label for="txtSubjectSupport" class="form-label">@_localization.Getkey("Konu").Value</label>
+                                    <input class="form-control" type="text" id="txtSubjectSupport" rows="1"/>
+                                </div>
+
+                                <div class="card-body col-8">
+                                    <label for="txtMessageSupport" class="form-label">@_localization.Getkey("Mesaj").Value</label>
+                                    <input class="form-control" type="text" id="txtMessageSupport" rows="1"/>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="card-body" style="display: flex; justify-content: flex-end;">
+                    <button type="button" class="btn btn-info" onclick="SaveSupport()"><i class="mdi mdi-send me-1"></i> <span>@_localization.Getkey("Gönder").Value</span> </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/Support.js"></script>

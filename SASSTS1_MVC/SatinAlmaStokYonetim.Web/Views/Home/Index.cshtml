@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>@_localization.Getkey("Ahlatcı Teknoloji - Kurumsal Yönetim Sistemi").Value</title>
+    <link rel="shortcut icon" href="~/assets/images/small/favicon.ico">
+    <link href="~/assets/css/vendor/responsive.bootstrap5.css" rel="stylesheet" type="text/css">
+    <link href="~/assets/css/app.min.css" rel="stylesheet" type="text/css" id="light-style" disabled="disabled">
+    <link href="~/assets/css/app-dark.min.css" rel="stylesheet" type="text/css" id="dark-style">
+    <link href="~/css/index.css" rel="stylesheet" type="text/css" id="dark-style">
+
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+</head>
+<body class="body flex" style="background-color:white;">
+    <div class="row mx-2">
+        <div class="text-end">
+            <ul class="list-unstyled topbar-menu float-end mt-0 mb-0">
+                <li class="dropdown notification-list topbar-dropdown">
+                    <a class="nav-link dropdown-toggle arrow-none" data-bs-toggle="dropdown" id="topbar-languagedrop" href="#" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-item notify-item">
+                        <span class="align-middle">@_localization.Getkey("Diller").Value</span> <i class="mdi mdi-chevron-down"></i>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-end dropdown-menu-animated topbar-dropdown-menu" aria-labelledby="topbar-languagedrop">
+                        <a asp-area="" asp-controller="Home" asp-action="ChangeLanguage" asp-route-culture="tr-TR" class="dropdown-item notify-item">
+                            <img src="~/assets/images/flags/turkiye.png" alt="user-image" class="me-1" height="12"> <span class="align-middle">Türkçe</span>
+                        </a>
+                        <a asp-area="" asp-controller="Home" asp-action="ChangeLanguage" asp-route-culture="de-DE" class="dropdown-item notify-item">
+                            <img src="~/assets/images/flags/germany.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">Deutsch</span>
+                        </a>
+                        <a asp-area="" asp-controller="Home" asp-action="ChangeLanguage" asp-route-culture="it-IT" class="dropdown-item notify-item">
+                            <img src="~/assets/images/flags/italy.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">L'Italiano</span>
+                        </a>
+                        <a asp-area="" asp-controller="Home" asp-action="ChangeLanguage" asp-route-culture="es-ES" class="dropdown-item notify-item">
+                            <img src="~/assets/images/flags/spain.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">Español</span>
+                        </a>
+                        <a asp-area="" asp-controller="Home" asp-action="ChangeLanguage" asp-route-culture="en-GB" class="dropdown-item notify-item">
+                            <img src="~/assets/images/flags/england.png" alt="user-image" class="me-1" height="12"> <span class="align-middle">English</span>
+                        </a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="d-flex align-items-center justify-content-center" style="height: 85vh;">
+
+        <div class="row">
+            <div class="logo-container">
+                <img src="@_localization.GetImagePath("index.gif")" alt="GIF">
+            </div>
+            <div class="text-center mt-4 pt-3">
+                <a asp-area="" asp-controller="Account" asp-action="Login"><span><img class="imgBoyut" src="@_localization.GetImagePath("login.png")" alt="Login"></span></a>
+            </div>
+        </div>
+    </div>
+    <script src="~/assets/js/vendor.min.js"></script>
+    <script src="~/assets/js/app.min.js"></script>
+</body>
+</html>

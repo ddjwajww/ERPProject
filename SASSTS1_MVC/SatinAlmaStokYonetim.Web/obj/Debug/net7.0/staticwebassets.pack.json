@@ -1,0 +1,1217 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SatinAlmaStokYonetim.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SatinAlmaStokYonetim.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\app-dark.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\32px.png",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\32px.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\britecharts.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\britecharts.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\buttons.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\buttons.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\frappe-gantt.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\frappe-gantt.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\jstree.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\jstree.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\quill.core.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\quill.core.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\quill.snow.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\responsive.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\responsive.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\select.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\select.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\simplemde.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\simplemde.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\css\\vendor\\throbber.gif",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\throbber.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Bold-1.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Bold-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Bold.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Bold.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Light-1.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Light-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Light.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Light.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Light.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Regular-1.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Regular-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-SemiBold-1.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-SemiBold-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-SemiBold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-SemiBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-SemiBold.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-SemiBold.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\Nunito-SemiBold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Nunito-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\dripicons-v2-1.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\materialdesignicons-webfont-1.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\unicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\unicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\unicons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\unicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\unicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\unicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\unicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\unicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\fonts\\unicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\unicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\adminlogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\adminlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\bg-auth.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-auth.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\border.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\border.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\camera1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\camera1.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\contactus.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contactus.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\email-campaign.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\email-campaign.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\features-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\features-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\features-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\features-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\file-searching.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\file-searching.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\flags\\england.png",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\england.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\flags\\germany.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\germany.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\flags\\italy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\italy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\flags\\russia.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\russia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\flags\\spain.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\spain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\flags\\turkiye.png",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\turkiye.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\flags\\us.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\help-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\help-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\in_out.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\in_out.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\index.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\index.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\invoice_logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\invoice_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\login.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\login.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\login.png",
+      "PackagePath": "staticwebassets\\assets\\images\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\login_inout.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\login_inout.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\mail_sent.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\mail_sent.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\maintenance.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\maintenance.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\navlogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\navlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\navlogo_light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\navlogo_light.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\null.png",
+      "PackagePath": "staticwebassets\\assets\\images\\null.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\onlyin.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\onlyin.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\products\\a4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\a4.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\products\\cay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\cay.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\products\\kahve.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\kahve.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\products\\klavye.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\klavye.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\products\\laptop.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\products\\mouse.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\mouse.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\products\\null.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\null.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\products\\su.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\su.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\products\\yazici.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\yazici.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\qrcode.png",
+      "PackagePath": "staticwebassets\\assets\\images\\qrcode.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\report.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\report.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\small\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\startman.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\startman.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\startup.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\startup.svg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\userNull.png",
+      "PackagePath": "staticwebassets\\assets\\images\\userNull.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\users\\abidin.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\abidin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\users\\fatih.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\fatih.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\users\\omer.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\omer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\users\\serhat.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\serhat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\users\\userNull.png",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\userNull.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\users\\yunus.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\yunus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\images\\waves.png",
+      "PackagePath": "staticwebassets\\assets\\images\\waves.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\js\\pages\\demo.widgets.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\demo.widgets.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\js\\typeahead.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\typeahead.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\js\\ui\\component.chat.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui\\component.chat.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\js\\ui\\component.fileupload.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui\\component.fileupload.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\js\\ui\\component.todo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui\\component.todo.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\assets\\js\\vendor\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\css\\imageUpload.css",
+      "PackagePath": "staticwebassets\\css\\imageUpload.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\css\\print.css",
+      "PackagePath": "staticwebassets\\css\\print.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\de-DE\\adminlogo.png",
+      "PackagePath": "staticwebassets\\img\\de-DE\\adminlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\de-DE\\contactus.png",
+      "PackagePath": "staticwebassets\\img\\de-DE\\contactus.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\de-DE\\contactus_dark.png",
+      "PackagePath": "staticwebassets\\img\\de-DE\\contactus_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\de-DE\\index.gif",
+      "PackagePath": "staticwebassets\\img\\de-DE\\index.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\de-DE\\invoice_logo.png",
+      "PackagePath": "staticwebassets\\img\\de-DE\\invoice_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\de-DE\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\de-DE\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\de-DE\\login.gif",
+      "PackagePath": "staticwebassets\\img\\de-DE\\login.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\de-DE\\login.png",
+      "PackagePath": "staticwebassets\\img\\de-DE\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\de-DE\\logo.png",
+      "PackagePath": "staticwebassets\\img\\de-DE\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\de-DE\\navlogo.png",
+      "PackagePath": "staticwebassets\\img\\de-DE\\navlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\de-DE\\navlogo_dark.png",
+      "PackagePath": "staticwebassets\\img\\de-DE\\navlogo_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\en-GB\\adminlogo.png",
+      "PackagePath": "staticwebassets\\img\\en-GB\\adminlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\en-GB\\contactus.png",
+      "PackagePath": "staticwebassets\\img\\en-GB\\contactus.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\en-GB\\contactus_dark.png",
+      "PackagePath": "staticwebassets\\img\\en-GB\\contactus_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\en-GB\\index.gif",
+      "PackagePath": "staticwebassets\\img\\en-GB\\index.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\en-GB\\invoice_logo.png",
+      "PackagePath": "staticwebassets\\img\\en-GB\\invoice_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\en-GB\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\en-GB\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\en-GB\\login.gif",
+      "PackagePath": "staticwebassets\\img\\en-GB\\login.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\en-GB\\login.png",
+      "PackagePath": "staticwebassets\\img\\en-GB\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\en-GB\\logo.png",
+      "PackagePath": "staticwebassets\\img\\en-GB\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\en-GB\\navlogo.png",
+      "PackagePath": "staticwebassets\\img\\en-GB\\navlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\en-GB\\navlogo_dark.png",
+      "PackagePath": "staticwebassets\\img\\en-GB\\navlogo_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\es-ES\\adminlogo.png",
+      "PackagePath": "staticwebassets\\img\\es-ES\\adminlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\es-ES\\contactus.png",
+      "PackagePath": "staticwebassets\\img\\es-ES\\contactus.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\es-ES\\contactus_dark.png",
+      "PackagePath": "staticwebassets\\img\\es-ES\\contactus_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\es-ES\\index.gif",
+      "PackagePath": "staticwebassets\\img\\es-ES\\index.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\es-ES\\invoice_logo.png",
+      "PackagePath": "staticwebassets\\img\\es-ES\\invoice_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\es-ES\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\es-ES\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\es-ES\\login.gif",
+      "PackagePath": "staticwebassets\\img\\es-ES\\login.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\es-ES\\login.png",
+      "PackagePath": "staticwebassets\\img\\es-ES\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\es-ES\\logo.png",
+      "PackagePath": "staticwebassets\\img\\es-ES\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\es-ES\\navlogo.png",
+      "PackagePath": "staticwebassets\\img\\es-ES\\navlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\es-ES\\navlogo_dark.png",
+      "PackagePath": "staticwebassets\\img\\es-ES\\navlogo_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\it-IT\\adminlogo.png",
+      "PackagePath": "staticwebassets\\img\\it-IT\\adminlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\it-IT\\contactus.png",
+      "PackagePath": "staticwebassets\\img\\it-IT\\contactus.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\it-IT\\contactus_dark.png",
+      "PackagePath": "staticwebassets\\img\\it-IT\\contactus_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\it-IT\\index.gif",
+      "PackagePath": "staticwebassets\\img\\it-IT\\index.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\it-IT\\invoice_logo.png",
+      "PackagePath": "staticwebassets\\img\\it-IT\\invoice_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\it-IT\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\it-IT\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\it-IT\\login.gif",
+      "PackagePath": "staticwebassets\\img\\it-IT\\login.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\it-IT\\login.png",
+      "PackagePath": "staticwebassets\\img\\it-IT\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\it-IT\\logo.png",
+      "PackagePath": "staticwebassets\\img\\it-IT\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\it-IT\\navlogo.png",
+      "PackagePath": "staticwebassets\\img\\it-IT\\navlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\it-IT\\navlogo_dark.png",
+      "PackagePath": "staticwebassets\\img\\it-IT\\navlogo_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\tr-TR\\adminlogo.png",
+      "PackagePath": "staticwebassets\\img\\tr-TR\\adminlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\tr-TR\\contactus.png",
+      "PackagePath": "staticwebassets\\img\\tr-TR\\contactus.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\tr-TR\\contactus_dark.png",
+      "PackagePath": "staticwebassets\\img\\tr-TR\\contactus_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\tr-TR\\index.gif",
+      "PackagePath": "staticwebassets\\img\\tr-TR\\index.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\tr-TR\\invoice_logo.png",
+      "PackagePath": "staticwebassets\\img\\tr-TR\\invoice_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\tr-TR\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\tr-TR\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\tr-TR\\login.gif",
+      "PackagePath": "staticwebassets\\img\\tr-TR\\login.gif"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\tr-TR\\login.png",
+      "PackagePath": "staticwebassets\\img\\tr-TR\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\tr-TR\\logo.png",
+      "PackagePath": "staticwebassets\\img\\tr-TR\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\tr-TR\\navlogo.png",
+      "PackagePath": "staticwebassets\\img\\tr-TR\\navlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\img\\tr-TR\\navlogo_dark.png",
+      "PackagePath": "staticwebassets\\img\\tr-TR\\navlogo_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\Index\\exchange.js",
+      "PackagePath": "staticwebassets\\js\\Index\\exchange.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\Index\\todo.js",
+      "PackagePath": "staticwebassets\\js\\Index\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\Support.js",
+      "PackagePath": "staticwebassets\\js\\Support.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\account\\login.js",
+      "PackagePath": "staticwebassets\\js\\account\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\authority\\authority.js",
+      "PackagePath": "staticwebassets\\js\\authority\\authority.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\company\\company.js",
+      "PackagePath": "staticwebassets\\js\\company\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\customInput.js",
+      "PackagePath": "staticwebassets\\js\\customInput.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\department\\department.js",
+      "PackagePath": "staticwebassets\\js\\department\\department.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\employee\\employee.js",
+      "PackagePath": "staticwebassets\\js\\employee\\employee.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\employee\\employeeRead.js",
+      "PackagePath": "staticwebassets\\js\\employee\\employeeRead.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\history\\history.js",
+      "PackagePath": "staticwebassets\\js\\history\\history.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\invoice\\invoiceEntry.js",
+      "PackagePath": "staticwebassets\\js\\invoice\\invoiceEntry.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\invoice\\invoices.js",
+      "PackagePath": "staticwebassets\\js\\invoice\\invoices.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\message\\message.js",
+      "PackagePath": "staticwebassets\\js\\message\\message.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\message\\messageRead.js",
+      "PackagePath": "staticwebassets\\js\\message\\messageRead.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\notification.js",
+      "PackagePath": "staticwebassets\\js\\notification.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\offer\\approveOffer.js",
+      "PackagePath": "staticwebassets\\js\\offer\\approveOffer.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\offer\\createOffer.js",
+      "PackagePath": "staticwebassets\\js\\offer\\createOffer.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\other.js",
+      "PackagePath": "staticwebassets\\js\\other.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\product\\category.js",
+      "PackagePath": "staticwebassets\\js\\product\\category.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\product\\product.js",
+      "PackagePath": "staticwebassets\\js\\product\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\report\\report.js",
+      "PackagePath": "staticwebassets\\js\\report\\report.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\report\\timeReports.js",
+      "PackagePath": "staticwebassets\\js\\report\\timeReports.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\request\\approveRequest.js",
+      "PackagePath": "staticwebassets\\js\\request\\approveRequest.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\request\\createRequest.js",
+      "PackagePath": "staticwebassets\\js\\request\\createRequest.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\request\\requestList.js",
+      "PackagePath": "staticwebassets\\js\\request\\requestList.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\role\\role.js",
+      "PackagePath": "staticwebassets\\js\\role\\role.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\stock\\manageStock.js",
+      "PackagePath": "staticwebassets\\js\\stock\\manageStock.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\js\\supplier\\supplier.js",
+      "PackagePath": "staticwebassets\\js\\supplier\\supplier.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\DOCS.md",
+      "PackagePath": "staticwebassets\\webcamjs\\DOCS.md"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\LICENSE",
+      "PackagePath": "staticwebassets\\webcamjs"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\README.md",
+      "PackagePath": "staticwebassets\\webcamjs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\bower.json",
+      "PackagePath": "staticwebassets\\webcamjs\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\build.sh",
+      "PackagePath": "staticwebassets\\webcamjs\\build.sh"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\basic.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\basic.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\click-to-run.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\click-to-run.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\combo.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\combo.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\constraints.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\constraints.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\continuous.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\continuous.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\crop-large.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\crop-large.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\crop.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\crop.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\events.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\events.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\flash-disabled.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\flash-disabled.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\flash.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\flash.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\flip-flash.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\flip-flash.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\flip.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\flip.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\hd.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\hd.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\ios-large.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\ios-large.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\large.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\large.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\preview.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\preview.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\reset.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\reset.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\sfx.html",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\sfx.html"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\shutter.mp3",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\shutter.mp3"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\demos\\shutter.ogg",
+      "PackagePath": "staticwebassets\\webcamjs\\demos\\shutter.ogg"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\flash\\README.txt",
+      "PackagePath": "staticwebassets\\webcamjs\\flash\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\flash\\Webcam.as",
+      "PackagePath": "staticwebassets\\webcamjs\\flash\\Webcam.as"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\flash\\Webcam.fla",
+      "PackagePath": "staticwebassets\\webcamjs\\flash\\Webcam.fla"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\flash\\com\\adobe\\images\\BitString.as",
+      "PackagePath": "staticwebassets\\webcamjs\\flash\\com\\adobe\\images\\BitString.as"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\flash\\com\\adobe\\images\\JPGEncoder.as",
+      "PackagePath": "staticwebassets\\webcamjs\\flash\\com\\adobe\\images\\JPGEncoder.as"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\flash\\com\\adobe\\images\\PNGEncoder.as",
+      "PackagePath": "staticwebassets\\webcamjs\\flash\\com\\adobe\\images\\PNGEncoder.as"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\flash\\mx\\utils\\Base64Encoder.as",
+      "PackagePath": "staticwebassets\\webcamjs\\flash\\mx\\utils\\Base64Encoder.as"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\package.json",
+      "PackagePath": "staticwebassets\\webcamjs\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\webcam.js",
+      "PackagePath": "staticwebassets\\webcamjs\\webcam.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\webcam.min.js",
+      "PackagePath": "staticwebassets\\webcamjs\\webcam.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emre\\Desktop\\Son Proje\\AHL.ERP-main\\SASSTS1_MVC\\SatinAlmaStokYonetim.Web\\wwwroot\\webcamjs\\webcam.swf",
+      "PackagePath": "staticwebassets\\webcamjs\\webcam.swf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SatinAlmaStokYonetim.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SatinAlmaStokYonetim.Web.props",
+      "PackagePath": "build\\SatinAlmaStokYonetim.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SatinAlmaStokYonetim.Web.props",
+      "PackagePath": "buildMultiTargeting\\SatinAlmaStokYonetim.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SatinAlmaStokYonetim.Web.props",
+      "PackagePath": "buildTransitive\\SatinAlmaStokYonetim.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

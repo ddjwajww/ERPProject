@@ -1,0 +1,168 @@
+﻿@using SatinAlmaStokYonetim.Web.Code;
+<script>
+    var let_myInformation = " @_localization.Getkey("Bilgilerim").Value "
+    var let_phone = " @_localization.Getkey("Telefon").Value "
+    var let_email = " @_localization.Getkey("ePosta").Value "
+    var let_userName = " @_localization.Getkey("Kullanıcı Adı").Value "
+    var let_userPassword = " @_localization.Getkey("Şifre").Value "
+    var let_transactionWasCompletedSuccessfuly = " @_localization.Getkey("İşlem Başarılı").Value "
+    var let_opertaionFailed = " @_localization.Getkey("İşlem Başarısız.").Value "
+
+</script>
+<div class="row">
+    <div class="col-xl-12 col-lg-12">
+        <div class="card border border-light">
+            <div class="card-body">
+                <div class=" text-center">
+                    <img id="accountImg" src="@Repo.Session.Image" class="rounded-circle avatar-lg img-thumbnail" alt="profile-image">
+                    <label for="file-input">
+                        <img class="camera" src="~/assets/images/camera1.png" width="28" height="auto" />
+                        <input id="file-input" type="file" onchange="getBaseUrl()" style="display:none;" />
+                    </label>
+                    <h4 class="mb-0 mt-2">@Repo.Session.Name @Repo.Session.Surname</h4>
+                    <p class="text-muted font-14">@Repo.Session.Authority</p>
+                    <button type="button" id="btnCamera" data-bs-toggle="modal" data-bs-target="#cameraModal" class="btn btn-primary btn-sm mb-2">@_localization.Getkey("Kamera").Value</button>
+                    <br />
+                    <br />
+                </div>
+
+                <h5 class="mb-3 bg-light p-2"><i class="mdi mdi-earth me-1"></i>@_localization.Getkey("Hesap Bilgilerim").Value</h5>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="inputUsername" class="form-label">@_localization.Getkey("Kullanıcı Adı").Value</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="mdi mdi-account"></i></span>
+                                <input type="text" autocomplete="off" class="form-control" id="inputUsername" placeholder="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="inputPassword" class="form-label">@_localization.Getkey("Şifre").Value</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="mdi mdi-lock"></i></span>
+                                <input type="password" autocomplete="off" class="form-control" id="inputPassword" placeholder="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="inputEmail" class="form-label">@_localization.Getkey("ePosta").Value</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="mdi mdi-email"></i></span>
+                                <input type="text" class="form-control" autocomplete="off" id="inputEmail" placeholder="@_localization.Getkey("ePosta adresini giriniz...")">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="inputPhone" class="form-label">@_localization.Getkey("Telefon").Value</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="mdi mdi-phone"></i></span>
+                                <input type="text" class="form-control" id="inputPhone" autocomplete="off" data-toggle="input-mask" data-mask-format="00000000000" maxlength="11" placeholder="@_localization.Getkey("Telefon numarasını giriniz...")">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <hr class="mt-4 " />
+                <div class="col-xl-8 col-lg-8"></div>
+                <button type="button" id="btnEdit" data-bs-toggle="modal" data-bs-target="#accountModal" class="btn btn-success btn-sm mb-2 float-end">@_localization.Getkey("Bilgileri Güncelle")</button>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+<div class="modal fade" id="cameraModal" tabindex="-1" role="dialog"
+     aria-labelledby="cameraModallabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="cameraModallabel">@_localization.Getkey("Kamera").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                        aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row mt-1">
+                    <div class="col-12 text-center">
+                        <img src="@Repo.Session.Image" id="inputCameraImage" class="avatar-lg img-thumbnail" style="border:1px solid;" alt="Img" width="100px" height="200px">
+                    </div>
+                </div>
+                <div>
+                    <div class="col-md-2"></div>
+                    <div class="col-12 mx-3">
+                        <div class="panel panel-default">
+                            <div class="panel-heading"></div>
+                            <div class="panel-body">
+                                <div id="my_camera"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="panel panel-default">
+                            <div class="panel-heading"></div>
+                            <div class="panel-body">
+                                <div id="results"></div>
+                            </div>
+                            <br />
+                            <br />
+                        </div>
+                    </div>
+                    <div class="col-md-2"></div>
+                </div>
+                <div class="row mb-3">
+                    <div class="text-center">
+                        <input type="button" class="btn btn-sm btn-primary" value="@_localization.Getkey("Kamerayı Başlat").Value" onClick="start_camera()">
+                        <input type="button" class="btn btn-sm btn-danger" value="@_localization.Getkey("Fotoğraf Çek").Value" onClick="take_snapshot()">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="reload()" class="btn btn-sm btn-light" data-bs-dismiss="modal">
+                    @_localization.Getkey("Vazgeç").Value
+                </button>
+
+                <button type="button" class="btn btn-sm btn-success" onclick="saveCameraImage()">
+                    @_localization.Getkey("Kaydet").Value
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="accountModal" tabindex="-1" role="dialog"
+     aria-labelledby="accountModalLapel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="accountModalLapel">@_localization.Getkey("Bilgileri Güncelle")</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                        aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <div class="col-12 text-center  mb-4 mt-4 ">
+                    <span>@_localization.Getkey("Bilgileri Güncellemeyi Onaylıyor Musununuz?")</span>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light" data-bs-dismiss="modal">
+                    @_localization.Getkey("Hayır").Value
+                </button>
+
+                <button type="button" class="btn btn-sm btn-success" onclick="saveAccountandEmployee()">
+                    @_localization.Getkey("Evet").Value
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/webcamjs/webcam.js"></script>
+<script src="~/js/employee/employeeRead.js"></script>

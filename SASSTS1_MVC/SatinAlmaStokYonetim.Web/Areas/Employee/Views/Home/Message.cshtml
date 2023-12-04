@@ -1,0 +1,73 @@
+﻿<div class="card border-light border">
+    <h6 class="card-header"><i b-eruwahco1m="" class=" uil-envelope me-1"></i>@_localization.Getkey("Gelen Mesajlar").Value</h6>
+    <div class="card-body">
+        <div class="table-responsive mt-0">
+            <div id="divMessages">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="createMessageModal" tabindex="-1" role="dialog"
+     aria-labelledby="createMessageLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-center">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="createMessageLabel">@_localization.Getkey("Mesaj Yaz").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                        aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-check form-checkbox-info mb-2 " style="margin-left:50px;">
+                            <input type="checkbox" class="form-check-input" id="checkRequest">
+                            <label class="form-check-label" for="checkRequest">@_localization.Getkey("Talep Birimi").Value</label>
+                        </div>
+                        <div class="form-check form-checkbox-info mb-2" style="margin-left:50px;">
+                            <input type="checkbox" class="form-check-input" id="checkSuccess">
+                            <label class="form-check-label" for="checkSuccess">@_localization.Getkey("Onay Birimi").Value</label>
+                        </div>
+                        <div class="form-check form-checkbox-info mb-2" style="margin-left:50px;">
+                            <input type="checkbox" class="form-check-input" id="checkBuying">
+                            <label class="form-check-label" for="checkBuying">@_localization.Getkey("Satın Alma İkmali").Value</label>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="form-check form-checkbox-succcess mb-2">
+                            <input type="checkbox" class="form-check-input" id="checkAccounting">
+                            <label class="form-check-label" for="checkAccounting">@_localization.Getkey("Muhasebe").Value</label>
+                        </div>
+                        <div class="form-check form-checkbox-danger mb-2">
+                            <input type="checkbox" class="form-check-input" id="checkManagement">
+                            <label class="form-check-label" for="checkManagement">@_localization.Getkey("Yönetim").Value</label>
+                        </div>
+                        <div class="form-check form-checkbox-danger mb-2">
+                            <input type="checkbox" class="form-check-input" id="checkCommittee">
+                            <label class="form-check-label" for="checkCommittee">@_localization.Getkey("Kurul").Value</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="mb-1">
+                    <label for="txtSubject" class="form-label">@_localization.Getkey("Konu").Value</label>
+                    <input type="text" id="txtSubject" class="form-control">
+                </div>
+                <div class="mb-1">
+                    <label for="txtMessage" class="form-label">@_localization.Getkey("Mesaj").Value</label>
+                    <textarea id="txtMessage" style="min-height:140px; resize:none;" class="form-control"></textarea>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light" data-bs-dismiss="modal">
+                    @_localization.Getkey("Vazgeç").Value
+                </button>
+                <button type="button" class="btn btn-sm btn-success" onclick="sendMessage()">
+                    @_localization.Getkey("Gönder").Value
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/message/messageRead.js"></script>

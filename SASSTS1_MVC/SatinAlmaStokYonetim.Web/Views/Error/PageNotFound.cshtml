@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@_localization.Getkey("404 | Sayfa Bulunamadı").Value</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="~/assets/images/small/favicon.ico">
+    <link href="~/assets/css/icons.min.css" rel="stylesheet" type="text/css">
+    <link href="~/assets/css/app.min.css" rel="stylesheet" type="text/css" id="light-style" />
+    <style>
+        .btn-border-blue {
+            background-color: #38b6ff;
+            color: #3c3c3c;
+        }
+
+            .btn-border-blue:hover {
+                background-color: #1764cf;
+                color: #ffffff;
+            }
+
+        .error-color {
+            color: #38b6ff;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="account-pages pt-2 pt-sm-5 pb-4 pb-sm-5 mt-5">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xxl-6 col-lg-5">
+                    <div class="card">
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <h1 class="text-error error-color">404</h1>
+                                <h4 class="text-uppercase error-color mt-3">@_localization.Getkey("Sayfa Bulunamadı").Value</h4>
+                                <p class=" mt-3">@_localization.Getkey("Aradığınız kaynak kaldırılmış, adı değiştirilmiş ya da geçici olarak kullanım dışı olabilir...").Value</p>
+                                <a class="btn btn-border-blue mt-3" asp-area="Employee" asp-controller="Home" asp-action="Index"><i class="mdi mdi-reply"></i>@_localization.Getkey("Ana Sayfaya Dön").Value</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer footer-alt">
+        <script>document.write(new Date().getFullYear())</script>@_localization.Getkey("© Kurumsal Yönetim Sistemi - Ahlatcı Teknoloji").Value
+
+    </footer>
+
+    <script src="~/assets/js/vendor.min.js"></script>
+    <script src="~/assets/js/app.min.js"></script>
+
+</body>
+</html>

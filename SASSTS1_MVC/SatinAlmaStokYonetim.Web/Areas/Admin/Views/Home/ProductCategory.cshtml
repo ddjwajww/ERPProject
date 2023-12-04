@@ -1,0 +1,71 @@
+﻿<script>
+    //category.js
+    var let_queue = "@_localization.Getkey("Sıra").Value"
+    var let_categoryName = "@_localization.Getkey("Kategori Adı").Value"
+    var let_transactions = "@_localization.Getkey("İşlemler").Value"
+    var let_category = "@_localization.Getkey("Kategori").Value"
+    var let_regisSuccess = "@_localization.Getkey("Kayıt İşlemi Başarılı.").Value"
+    var let_regisFail = "@_localization.Getkey("Kayıt İşlemi Başarısız.").Value"
+    var let_queue = "@_localization.Getkey("Felan").Value"
+
+</script>
+
+<div class="card border-light border mt-4">
+    <h6 class="card-header"><i b-eruwahco1m="" class=" uil-building me-1"></i>@_localization.Getkey("Kategori İşlemleri").Value</h6>
+    <div class="card-body">
+        <div class="row mb-2">
+            <div class="col-sm-4">
+                <button class="btn btn-success mb-2" data-bs-toggle="modal" data-bs-target="#addCategoryModal"><i class="mdi mdi-plus-circle me-2"></i>@_localization.Getkey("Kategori Ekle").Value</button>
+            </div>
+            <div class="col-sm-8">
+            </div>
+        </div>
+        <div class="app-search mb-2">
+            <div class="mb-2 position-relative">
+                <input type="text" class="form-control" id="searchText" autocomplete="off" placeholder="@_localization.Getkey("Kategori Adı ile Ara...").Value">
+                <span class="mdi mdi-magnify search-icon"></span>
+            </div>
+        </div>
+        <hr />
+        <div id="divCategories">
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="addCategoryModal" tabindex="-1" role="dialog"
+     aria-labelledby="addCategoryModallabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="addCategoryModallabel">@_localization.Getkey("Kategori Bilgileri").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                        aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+               @*  <div class="d-flex align-items-center px-2 mb-2 mt-2">
+                    <label class="me-2" style="width:80px;">@_localization.Getkey("Kategori No").Value :</label>
+                    <input type="number" id="inputCategoryId" class="form-control" />
+                </div> *@
+
+                <div class="d-flex align-items-center px-2 mb-2 mt-2">
+                    <label class="me-2" style="width:80px;">@_localization.Getkey("Kategori Adı").Value :</label>
+                    <input type="text" id="inputCategoryName" class="form-control" />
+                </div>
+            </div>
+            <div id="errorFeedback1" class="mx-2" style="color:#dc3545"></div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light" data-bs-dismiss="modal">
+                    @_localization.Getkey("Kapat").Value
+                </button>
+
+                <button type="button" class="btn btn-sm btn-success" onclick="createCategory()">
+                    @_localization.Getkey("Kaydet").Value
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/js/product/category.js"></script>

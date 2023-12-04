@@ -1,0 +1,124 @@
+﻿<script>
+    //report.js
+    var let_queue = " @_localization.Getkey("Sıra").Value "
+    var let_company = " @_localization.Getkey("Şirket").Value "
+    var let_requestNo = " @_localization.Getkey("Talep No").Value "
+    var let_supplierCompany = " @_localization.Getkey("Tedarikçi Firma").Value "
+    var let_readReport = " @_localization.Getkey("Raporu Oku").Value "
+    var let_status = " @_localization.Getkey("Durum").Value "
+    var let_readed = " @_localization.Getkey("Okundu").Value "
+    var let_notReaded = " @_localization.Getkey("Okunmadı").Value "
+    var let_totalPrice = " @_localization.Getkey("Toplam Fiyat").Value "
+    var let_currency = " @_localization.Getkey("Kur").Value "
+    var let_categoryName = " @_localization.Getkey("Kategori Adı").Value "
+    var let_quantity = " @_localization.Getkey("Miktar").Value "
+    var let_productName = " @_localization.Getkey("Ürün Adı").Value "
+    var let_product = " @_localization.Getkey("Ürün").Value "
+    var let_new = " @_localization.Getkey("Yeni").Value "
+    
+</script>
+<div class="card border border-light" id="invoiceCard" style="display:block;">
+    <div class="card-body">
+        <h5 class="mb-4 bg-light p-2">
+            <i class="mdi mdi-office-building me-1"></i>@_localization.Getkey("Rapor Listesi").Value
+        </h5>
+        <div class="app-search mb-2">
+            <form>
+                <div class="mb-2 position-relative">
+                    <input type="text" class="form-control" id="searchText" autocomplete="off" placeholder="@_localization.Getkey("Talep No Ara...").Value">
+                    <span class="mdi mdi-magnify search-icon"></span>
+                </div>
+            </form>
+        </div>
+        <div class="table-responsive">
+            <div id="divReports"></div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="report2Modal" tabindex="-1" role="dialog" aria-labelledby="report2Modallabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="report2Modallabel">@_localization.Getkey("Rapor Bilgileri").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+            </div>
+            <div class="modal-body" id="printPage">
+
+                <div class="clearfix">
+                    <div class="float-start mb-3">
+                        <img src="@_localization.GetImagePath("invoice_logo.png")" alt="" height="300">
+                    </div>
+                    <div class="float-end">
+                        <h4 class="m-0 d-print-none">@_localization.Getkey("Rapor").Value</h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="table-responsive">
+                            <table class="table mt-4">
+                                <thead>
+                                </thead>
+                                <caption style="text-align:right"><b>@_localization.Getkey("ÇALIŞAN").Value</b></caption>
+                                <tbody>
+                                    <tr>
+                                        <th>@_localization.Getkey("Ad").Value</th>
+                                        <th>@_localization.Getkey("Soyad").Value</th>
+                                        <th>@_localization.Getkey("Şirket Adı").Value</th>
+                                        <th>@_localization.Getkey("Departman Adı").Value</th>
+                                    </tr>
+                                </tbody>
+                                <tbody>
+                                    <tr>
+                                        <td id="infoName"></td>
+                                        <td id="infoSurname"></td>
+                                        <td id="infoCompanyName"></td>
+                                        <td id="infoDepartmentName"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="table-responsive">
+                            <table class="table mt-4">
+                                <thead>
+                                </thead>
+                                <caption style="text-align:right"><b>@_localization.Getkey("TEDARİKÇİ").Value</b></caption>
+                                <tbody>
+                                    <tr>
+                                        <th>@_localization.Getkey("Tedarikçi Adı").Value</th>
+                                        <th>@_localization.Getkey("Tedarikçi Telefonu").Value</th>
+                                    </tr>
+
+                                </tbody>
+                                <tbody>
+                                    <tr>
+                                        <td id="infoSupplierName">
+                                        </td>
+                                        <td id="infocompanyPhone">05305305353</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="table-responsive">
+                            <div id="productProcess"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-print-none mt-4">
+                    <div class="text-end">
+                        <a class="btn btn-primary" onclick="printData()"><i class="mdi mdi-printer"></i>@_localization.Getkey("Yazdır").Value</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/report/report.js"></script>

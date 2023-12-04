@@ -1,0 +1,185 @@
+﻿<script>
+    var let_queue = "@_localization.Getkey("Sıra").Value"
+    var let_photo = "@_localization.Getkey("Resim").Value"
+    var let_nameSurname = "@_localization.Getkey("Ad Soyad").Value"
+    var let_phone = "@_localization.Getkey("Telefon").Value"
+    var let_mail = "@_localization.Getkey("ePosta").Value"
+    var let_edit = "@_localization.Getkey("Düzenle").Value"
+    var let_delete = "@_localization.Getkey("Sil").Value"
+    var let_employee = "@_localization.Getkey("Çalışan").Value"
+    var let_deleteSuccess = "@_localization.Getkey("Silme İşlemi Başarılı.").Value"
+    var let_duringProcessFail = "@_localization.Getkey("İşlem Sırasında Hata Oluştu.").Value"
+    var let_selectDepartment = "@_localization.Getkey("Departman Seç...").Value"
+    var let_selectCompany = "@_localization.Getkey("Şirket Seç...").Value"
+    var let_selectRole = "@_localization.Getkey("Rol Seç...").Value"
+    var let_selectAuthority = "@_localization.Getkey("Yetki Seç...").Value"
+    var let_regisSuccess = "@_localization.Getkey("Kayıt İşlemi Başarılı.").Value"
+    var let_allCompanies = "@_localization.Getkey("Tüm Şirketler").Value"
+    var let_updateProcessSuccess = "@_localization.Getkey("Güncelleme İşlemi Başarılı.").Value"
+</script>
+
+
+<div class="card border-light border mt-4">
+    <h6 class="card-header"><i b-eruwahco1m="" class=" uil-building me-1"></i>@_localization.Getkey("Personel İşlemleri").Value</h6>
+    <div class="card-body">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <div class="input-group flex-nowrap">
+                    <span class="input-group-text" id="basic-addon1">@_localization.Getkey("Şirket").Value :</span>
+                    <select class="form-select form-select-sm" onchange="companyOptionFilterChange()" id="companyOptionFilter" style="min-width:180px;">
+                    </select>
+                </div>
+            </div>
+            <div class="col-sm-2">
+            </div>
+            <div class="col-sm-4">
+                <button class="btn float-end btn-success mb-2" data-bs-toggle="modal" onclick="newEmployee()" data-bs-target="#addPersonelModal"><i class="mdi mdi-plus-circle me-2"></i> @_localization.Getkey("Personel Ekle").Value</button>
+            </div>
+        </div>
+        <div class="app-search mb-2">
+            <div class="mb-2 position-relative">
+                <input type="text" class="form-control" id="searchText" autocomplete="off" placeholder="@_localization.Getkey("Personel Adı ile Ara...").Value">
+                <span class="mdi mdi-magnify search-icon"></span>
+            </div>
+        </div>
+        <div class="table-responsive">
+            <div id="employeeTable"></div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="addPersonelModal" tabindex="-1" role="dialog"
+     aria-labelledby="addPersonelModallabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="addPersonelModalLabel">@_localization.Getkey("Personel Bilgileri").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+
+                <div class="row mt-1">
+
+                    <div class=" text-center">
+                        <img id="accountImg" src="~/assets/images/userNull.png" class="rounded-circle avatar-lg img-thumbnail" alt="profile-image">
+                        <label for="file-input">
+                            <img class="camera" src="~/assets/images/camera1.png" width="28" height="auto" />
+                            <input id="file-input" type="file" onchange="getBaseUrl()" style="display:none;" />
+                        </label>
+                    </div>
+                </div>
+                <div class="col-12 text-center mb-4" style="display:none;">
+                    <div class="col-12 mt-2">
+                        <input type="file" id="example-fileinput" onchange="getBaseUrl()" class="form-control">
+                    </div>
+                </div>
+                <div class="row mt-2">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label>@_localization.Getkey("Adı").Value :</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="mdi mdi-card-account-details"></i></span>
+                                <input class="form-control" tabindex="-1" type="text" id="inputName" required="" placeholder="@_localization.Getkey("Ad giriniz...").Value">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label> @_localization.Getkey("Rol").Value :</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="mdi mdi-clipboard-account"></i></span>
+                                <select class="form-select" id="roleOption" style="min-width:180px;">
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label>@_localization.Getkey("Soyadı").Value :</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="mdi mdi-card-account-details"></i></span>
+                                <input class="form-control" tabindex="0" type="text" id="inputSurname" required="" placeholder="@_localization.Getkey("Soyadı giriniz...").Value">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label> @_localization.Getkey("Yetki").Value :</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="mdi mdi-text-box"></i></span>
+                                <select class="form-select" id="authorityOption" style="min-width:180px;">
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="inputPhone">@_localization.Getkey("Kimlik No").Value :</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="mdi mdi-card-account-details"></i></span>
+                                <input type="text" class="form-control" tabindex="1" id="inputIdentityNo" autocomplete="off" data-toggle="input-mask" data-mask-format="00000000000" maxlength="11" placeholder="@_localization.Getkey("Kimlik numarasını giriniz...").Value">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label>@_localization.Getkey("Şirket").Value :</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="mdi mdi-window-closed-variant"></i></span>
+                                <select class="form-select" id="companyOption" style="min-width:180px;">
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="inputPhone">@_localization.Getkey("Telefon").Value :</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="mdi mdi-phone"></i></span>
+                                <input type="text" class="form-control" id="inputPhone" autocomplete="off" data-toggle="input-mask" data-mask-format="00000000000" maxlength="11" placeholder="@_localization.Getkey("Telefon numarasını giriniz...")">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label>@_localization.Getkey("Departman").Value :</label>
+                            <div class="input-group">
+                                <span class="input-group-text"><i class="mdi mdi-layers-triple"></i></span>
+                                <select class="form-select" id="departmentOption" style="min-width:180px;">
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-2">
+                    <div class="mb-3">
+                        <label for="inputEmail">@_localization.Getkey("ePosta").Value :</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="mdi mdi-email"></i></span>
+                            <input type="email" class="form-control" autocomplete="off" id="inputEmail" placeholder="@_localization.Getkey("ePosta adresini giriniz...")">
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light" data-bs-dismiss="modal">
+                    @_localization.Getkey("Vazgeç").Value
+                </button>
+
+                <button type="button" class="btn btn-sm btn-success" id="addProductButton" onclick="saveEmployee()">
+                    @_localization.Getkey("Kaydet").Value
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/js/employee/employee.js"></script>

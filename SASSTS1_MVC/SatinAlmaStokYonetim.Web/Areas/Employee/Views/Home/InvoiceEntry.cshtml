@@ -1,0 +1,178 @@
+﻿<script>
+    //invoiceEntry.js
+    var let_purchase = " @_localization.Getkey("Alış").Value "
+    var let_turkishlira = " @_localization.Getkey("Türk Lirası").Value "
+    var let_selectRequestNo = " @_localization.Getkey("Talep No Seç...").Value "
+    var let_request = " @_localization.Getkey("Talep").Value "
+    var let_error = " @_localization.Getkey("Hata").Value "
+    var let_invoiceRegistrationCompleted = " @_localization.Getkey("Fatura Kaydı Tamamlandı").Value "
+    var let_duringProcessFail = " @_localization.Getkey("İşlem Sırasında Hata Oluştu.").Value "
+    var let_requestNotSelected = " @_localization.Getkey("Talep Seçilmedi.").Value "
+    var let_supplierCompanyNotSelected = " @_localization.Getkey("Tedarikçi Firma Seçilmedi.").Value "
+    var let_queue = " @_localization.Getkey("Sıra").Value "
+    var let_productName = " @_localization.Getkey("Ürün Adı").Value "
+    var let_quantity = " @_localization.Getkey("Miktar").Value "
+    var let_unit = " @_localization.Getkey("Birim").Value "
+    var let_unitPrice = " @_localization.Getkey("Birim Fiyat").Value "
+    var let_vatRate = " @_localization.Getkey("KDV Oranı").Value "
+    var let_refund = " @_localization.Getkey("İade").Value "
+    var let_selectSupplierCompany = " @_localization.Getkey("Tedarikçi Firmayı Seç...").Value "
+</script>
+
+<div class="card border border-light">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-4">
+                <h5 class="mb-3  bg-light p-2">
+                    <i class="mdi mdi-office-building me-1"></i>@_localization.Getkey("Talep").Value
+                </h5>
+                <div class="col-auto">
+                    <div class="d-flex align-items-center px-2">
+                        <label class="me-2" style="width:150px;">@_localization.Getkey("Talep No").Value</label>
+                        <select class="form-select" id="requestsOption" onchange="requestNoChange()" style="min-width:180px;">
+                            <option selected="" disabled="" value="0">@_localization.Getkey("Talep Seç...").Value</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <h5 class="mb-3 bg-light p-2">
+                    <i class="mdi mdi-office-building me-1"></i>@_localization.Getkey("Fatura Tipi").Value
+                </h5>
+                <div class="col-auto">
+                    <div class="d-flex align-items-center px-2">
+                        <label class="me-2" style="width:160px;">@_localization.Getkey("Fatura Tipi").Value :</label>
+                        <select class="form-select" id="typeOption" onchange="typeOption()">
+                            <option selected="" value="1">@_localization.Getkey("Alış").Value  </option>
+                            <option value="2"> @_localization.Getkey("İade").Value </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-5">
+                <h5 class="mb-3 bg-light p-2">
+                    <i class="mdi mdi-office-building me-1"></i>@_localization.Getkey("Tedarikçi Firma").Value
+                </h5>
+                <div class="col-auto">
+                    <div class="d-flex align-items-center px-2">
+                        <label class="me-2" style="width:80px;">@_localization.Getkey("Firma").Value :</label>
+                        <select class="form-select" id="suppliersOption" onchange="suppliersOptionChange()">
+                            <option selected="" disabled="" value="0">@_localization.Getkey("Tedarikçi Firmayı Seç...").Value</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="card border border-light">
+    <div class="card-body" style="min-height:400px;">
+        <h5 class="bg-light p-2">
+            <i class="mdi mdi-office-building me-1"></i>@_localization.Getkey("Fatura Detayları").Value
+        </h5>
+        <div id="divInvoice">
+        </div>
+        <div class="row">
+            <div class="col-6">
+                <div class="border p-3 mt-4 mt-lg-0 rounded">
+                    <h4 class="header-title mb-3">@_localization.Getkey("Fatura Bilgileri").Value</h4>
+                    <div class="table-responsive">
+                        <table class="table mb-0">
+                            <tbody>
+                                <tr>
+                                    <td>@_localization.Getkey("Fatura Tarihi").Value :</td>
+                                    <td>
+                                        <div class="input-group">
+                                            <input type="text" class="form-control form-control-light" id="datapicker1">
+                                            <span class="input-group-text bg-primary border-primary text-white">
+                                                <i class="mdi mdi-calendar-range font-13"></i>
+                                            </span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>@_localization.Getkey("Fatura No").Value : </td>
+                                    <td> <input type="text" id="inputInvoiceNo" data-toggle="input-mask" data-mask-format="AA00000000000000" length="16" class="form-control" /></td>
+                                </tr>                         
+                                <tr>
+                                    <td>@_localization.Getkey("Kur").Value : </td>
+                                    <td>
+                                        <select class="form-select" id="currencyOption" oninput="currencyChange()" style="min-width:180px;">
+                                            <option value="1">@_localization.Getkey("Türk Lirası").Value</option>
+                                            <option value="2">@_localization.Getkey("Dolar").Value</option>
+                                            <option value="3">@_localization.Getkey("Euro").Value</option>
+                                            <option value="4">@_localization.Getkey("Sterlin").Value</option>
+                                        </select>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>@_localization.Getkey("İndirim Tutarı").Value :</td>
+                                    <td>
+                                        <input type="number" oninput="calculator()" id="inputDiscount" value="0" class="form-control" />
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="border p-3 mt-4 mt-lg-0 rounded">
+                    <h4 class="header-title mb-3">@_localization.Getkey("Fiyat Özeti").Value</h4>
+                    <div class="table-responsive">
+                        <table class="table mb-0">
+                            <tbody>
+                                <tr>
+                                    <td><b>@_localization.Getkey("Tutar").Value :</b></td>
+                                    <td><b id="productTotalAmount" class="float-end">0₺</b></td>
+                                </tr>
+                                <tr>
+                                    <td><b>@_localization.Getkey("KDV").Value :</b></td>
+                                    <td><b id="kdv" class="float-end">0₺</b></td>
+                                </tr>
+                                <tr>
+                                    <td><b>@_localization.Getkey("İndirim").Value :</b></td>
+                                    <td><b id="discount" class="float-end">0₺</b></td>
+                                </tr>
+                                <tr>
+                                    <td><b>@_localization.Getkey("Net-Tutar").Value :</b></td>
+                                    <td><b id="totalAmount" class="float-end">0₺</b></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <button type="button" onclick="createInvoice()" class="btn btn-primary ms-2 float-end">
+                                            <i class="mdi mdi-clipboard-list-outline me-1">
+                                            </i> @_localization.Getkey("Fatura Kes").Value
+                                        </button>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="invoiceEntryModal" tabindex="-1" role="dialog" aria-labelledby="invoiceEntryModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="invoiceEntryModalLabel">@_localization.Getkey("Fatura Oluştur").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <div class="col-auto pt-3 pb-3 text-center">
+                    <h4> @_localization.Getkey("Faturayı Oluşturmak İstiyor Musunuz?").Value</h4>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light" data-bs-dismiss="modal">@_localization.Getkey("Vazgeç").Value</button>
+                <button type="button" class="btn btn-sm btn-primary" onclick="createInvoice()">@_localization.Getkey("Evet").Value</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/invoice/invoiceEntry.js"></script>

@@ -1,0 +1,77 @@
+﻿<script>
+    //company.js
+    var let_companyName = "@_localization.Getkey("Şirket Adı").Value"
+    var let_companyNo = "@_localization.Getkey("Şirket No").Value"
+    var let_edit = "@_localization.Getkey("Düzenle").Value"
+    var let_delete = "@_localization.Getkey("Sil").Value"
+    var let_updateSuccess = "@_localization.Getkey("Güncelleme İşlemi Başarılı.").Value"
+    var let_updateFail = "@_localization.Getkey("Güncelleme İşlemi Başarısız.").Value"
+    var let_newCompany = "@_localization.Getkey("Yeni Şirket").Value"
+    var let_regisSuccess = "@_localization.Getkey("Kayıt İşlemi Başarılı.").Value"
+    var let_regisFail = "@_localization.Getkey("Kayıt İşlemi Başarısız.").Value"
+    var let_company = "@_localization.Getkey("Şirket").Value"
+    var let_deleteFail = "@_localization.Getkey("Silme İşlemi Başarısız.").Value"
+    var let_deleteSuccess = "@_localization.Getkey("Silme İşlemi Başarılı.").Value"
+    var let_queue = "@_localization.Getkey("Sıra").Value"
+</script>
+
+
+<div class="card border-light border mt-4 mb-4">
+    <h6 class="card-header"><i b-eruwahco1m="" class=" uil-building me-1"></i>@_localization.Getkey("Şirket İşlemleri").Value</h6>
+    <div class="card-body">
+        <div class="row mb-2">
+            <div class="col-sm-4">
+                <button class="btn btn-success mb-2" onclick="newCompany()" data-bs-toggle="modal" data-bs-target="#addCompanyModal"><i class="mdi mdi-plus-circle me-2"></i> @_localization.Getkey("Şirket Ekle").Value</button>
+            </div>
+            <div class="col-sm-8">
+            </div>
+        </div>
+        <div class="app-search mb-2">
+            <div class="mb-2 position-relative">
+                <input type="text" class="form-control" id="searchText" autocomplete="off" placeholder="@_localization.Getkey("Şirket Adı ile Ara...").Value">
+                <span class="mdi mdi-magnify search-icon"></span>
+            </div>
+        </div>
+        <hr />
+        <div class="table-responsive mt-4">
+            <div id="divCompanies">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="addCompanyModal" tabindex="-1" role="dialog"
+     aria-labelledby="addPCompanyModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="addCompanyModalLabel">@_localization.Getkey("Şirket Bilgileri").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                        aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <div class="d-flex align-items-center px-2 mb-2 mt-2">
+                    <label class="me-2" >@_localization.Getkey("Şirket Adı").Value :</label>
+                    <input type="text" id="inputCompanyName" class="form-control" />
+                </div>
+
+                <div class="d-flex align-items-center px-2 mb-2 mt-2">
+                    <label class="me-2">@_localization.Getkey("Şirket No").Value :</label>
+                    <input type="text" class="form-control" id="inputCompanyNo" data-toggle="input-mask" data-mask-format="######" maxlength="6" placeholder="######">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light" data-bs-dismiss="modal">
+                    @_localization.Getkey("Kapat").Value
+                </button>
+
+                <button type="button" class="btn btn-sm btn-success" onclick="saveCompany()">
+                    @_localization.Getkey("Kaydet").Value
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/company/company.js"></script>

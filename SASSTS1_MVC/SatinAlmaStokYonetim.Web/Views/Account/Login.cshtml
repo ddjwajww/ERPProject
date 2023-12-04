@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>@_localization.Getkey("Giriş - Ahlatcı Teknoloji - Kurumsal Yönetim Sistemi").Value</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="~/assets/images/small/favicon.ico">
+    <link href="~/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/assets/css/app.min.css" rel="stylesheet" type="text/css" id="light-style" />
+    <link href="~/assets/css/app-dark.min.css" rel="stylesheet" type="text/css" id="dark-style" disabled="disabled" />
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/site.js"></script>
+    <script>
+        var let_timeToLeftToEnterTheCode = "@_localization.Getkey("Kodu girmek için kalan süre :").Value"
+        var let_newSendCode = "@_localization.Getkey("Yeni Kod Gönder").Value"
+        var let_login = "@_localization.Getkey("Giriş").Value"
+        var let_sendCode = "@_localization.Getkey("Yeni Kod Gönder").Value"
+        var let_verificationCodeSentToYourEmailAddress = "@_localization.Getkey("ePostanıza Doğrulama Kodu Gönderildi.").Value"
+        var let_failedToEstablishServerConnection = "@_localization.Getkey("Sunucu Bağlantısı Kurulamadı.").Value"
+        var let_loginProcess = "@_localization.Getkey("Giriş İşlemi").Value"
+        var let_loginProcessFailed = "@_localization.Getkey("Giriş İşlemi Başarısız.").Value"
+        var let_invalidDate = "@_localization.Getkey("Geçersiz Tarih").Value"
+        var let_rUSure = "@_localization.Getkey("Kaydı silmek istediğinizden emin misiniz?").Value"
+ 
+    </script>
+    <style>
+        .auth-fluid {
+            background-image: url(@_localization.GetImagePath("login.gif"))
+        }
+
+        .body.authentication-bg {
+            background-image: url(@_localization.GetImagePath("loading.gif"));
+        }
+    </style>
+</head>
+
+<body class="authentication-bg pb-0" data-layout-config='{"darkMode":false}'>
+    <div class="auth-fluid">
+        <div class="auth-fluid-form-box">
+            <div class="align-items-center d-flex h-100">
+                <div class="card-body">
+                    <div class="auth-brand text-center text-lg-start">
+                        <a asp-area="" asp-controller="Account" asp-action="Login" class="logo-dark">
+                            <span><img src="@_localization.GetImagePath("navlogo.png")" alt="" height="50"></span>
+                        </a>
+                        <a asp-area="" asp-controller="Account" asp-action="Login" class="logo-light">
+                            <span><img src="@_localization.GetImagePath("navlogo_dark.png")" alt="" height="50"></span>
+                        </a>
+                    </div>
+                    <div id="loginPage" style="display:block;">
+
+                        <h4 class="mt-0" style="margin-left:13px">
+                            <div class="waviy">
+
+                                <span style="--i:1">@_localization.Getkey("1").Value </span>
+                                <span style="--i:2">@_localization.Getkey("2").Value</span>
+                                <span style="--i:3">@_localization.Getkey("3").Value</span>
+                                <span style="--i:4">@_localization.Getkey("4").Value</span>
+                                <span style="--i:5">@_localization.Getkey("5").Value</span>
+                                <span style="--i:6">@_localization.Getkey("6").Value </span>
+                                <span style="--i:7">@_localization.Getkey("7").Value</span>
+                                <span style="--i:8">@_localization.Getkey("8").Value</span>
+                                <span style="--i:9">@_localization.Getkey("9").Value</span>
+                                <span style="--i:10">@_localization.Getkey("10").Value</span>
+                                <span style="--i:11">@_localization.Getkey("11").Value</span>
+                                <span style="--i:12">@_localization.Getkey("12").Value</span>
+                                <span style="--i:13">@_localization.Getkey("13").Value</span>
+                                <span style="--i:14">@_localization.Getkey("14").Value</span>
+
+                            </div>
+                        </h4>
+
+                        <p class="text-muted mb-3 " style="margin-left:13px">@_localization.Getkey("Giriş yapmak için kullanıcı ad veya ePostanızı ve şifrenizi giriniz.").Value</p>
+                        <form action="post">
+
+                            <div class="container custom-container mb-3">
+                                <div class="entryarea">
+                                    <input oninput="resetInfo()" type="text" id="username" class="input-login" required>
+                                    <div class="labelline">
+                                        @_localization.Getkey("Kullanıcı adınızı ya da ePosta hesabınızı giriniz.").Value
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="container mb-4">
+
+                                <div class="entryarea">
+                                    <input oninput="resetInfo()" type="password" id="password" class="input-login" required>
+                                    <div class="labelline">
+                                        @_localization.Getkey("Şifrenizi Giriniz.").Value
+                                    </div>
+                                </div>
+                                <a asp-area="" asp-controller="Account" asp-action="RecoverPassword" class="text-muted float-end mt-1" id="login-password"><small>@_localization.Getkey("Şifrenizi mi unuttunuz?").Value</small></a>
+
+                            </div>
+                            <div id="errorFeedback1" class="mx-2" style="color:#dc3545"></div>
+                            <div class="d-grid mb-0 text-center">
+                                <button class="btn" style="background-color:var(--bs-custom-blue); color:var(--bs-white);" id="login-button" type="button" onclick="entryData()"><span> @_localization.Getkey("Giriş Yap").Value </span>&nbsp;</button>
+
+                            </div>
+                        </form>
+                    </div>
+
+                    <div id="loginTwoCodePage" style="display:none;">
+
+                        <p class="text-muted mb-4">@_localization.Getkey("Mailinize gelen kodu giriniz.").Value</p>
+
+                        <form method="post" class="digit-group" data-group-name="digits" data-autosubmit="false" autocomplete="off">
+
+                            <div class="row mb-2 ml-3" style="margin-left: 8px;">
+                                <input oninput="resetInfo()" class="form-control mb-1" style="width:50px; margin-right:8px;" type="text" id="digit-1" name="digit-1" data-next="digit-2" />
+                                <input oninput="resetInfo()" class="form-control mb-1" style="width:50px;margin-right:8px;" type="text" id="digit-2" name="digit-2" data-next="digit-3" data-previous="digit-1" />
+                                <input oninput="resetInfo()" class="form-control mb-1" style="width:50px;margin-right:8px;" type="text" id="digit-3" name="digit-3" data-next="digit-4" data-previous="digit-2" />
+                                <input oninput="resetInfo()" class="form-control mb-1" style="width:50px;margin-right:8px;" type="text" id="digit-4" name="digit-4" data-next="digit-5" data-previous="digit-3" />
+                                <input oninput="resetInfo()" class="form-control mb-1" style="width:50px;margin-right:8px;" type="text" id="digit-5" name="digit-5" data-next="digit-6" data-previous="digit-4" />
+                                <input oninput="resetInfo()" class="form-control mb-1" style="width:50px;margin-right:8px;" type="text" id="digit-6" />
+                            </div>
+
+                        </form>
+                        <div class="d-grid mb-0 text-center">
+
+                            <div class="text-center">
+                                <a id="kalan_zaman"></a>
+                            </div>
+                            <br />
+                            <div id="errorFeedback2" class="mx-2" style="color:#dc3545"></div>
+                            <button id="yeni_kod" class="btn btn-primary" type="button" onclick="retryLogin()"></button>
+                            <button id="giris" id="loginTwoCodeBtn" class="btn btn-primary" type="button" onclick="loginTwoCode()"><i class="mdi mdi-login"></i></button>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/assets/js/vendor.min.js"></script>
+    <script src="~/assets/js/app.min.js"></script>
+    <script src="~/js/account/login.js"></script>
+    <script src="~/js/other.js"></script>
+    <script src="~/js/site.js"></script>
+    <script src="~/js/index/exchange.js"></script>
+    <script src="~/js/customInput.js"></script>
+</body>
+
+</html>

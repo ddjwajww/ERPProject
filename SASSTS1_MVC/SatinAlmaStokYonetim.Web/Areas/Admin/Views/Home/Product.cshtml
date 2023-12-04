@@ -1,0 +1,97 @@
+﻿<script>
+    //product.js
+    var let_queue = "@_localization.Getkey("Sıra").Value"
+    var let_productImage = "@_localization.Getkey("Ürün Resmi").Value"
+    var let_productName = "@_localization.Getkey("Ürün Adı").Value"
+    var let_unit = "@_localization.Getkey("Birim").Value"
+    var let_category = "@_localization.Getkey("Kategori").Value"
+    var let_edit = "@_localization.Getkey("Düzenle").Value"
+    var let_delete = "@_localization.Getkey("Sil").Value"
+    var let_allCategories = "@_localization.Getkey("Tüm Kategoriler").Value"
+    var let_piece = "@_localization.Getkey("Adet").Value"
+    var let_select_unit = "@_localization.Getkey("Birim Seç...").Value"
+    var let_selectCategory = "@_localization.Getkey("Kategori Seç...").Value"
+
+</script>
+<div class="row">
+    <div class="col-12">
+        <div class="page-title-box">
+
+            <h4 class="page-title">@_localization.Getkey("Ön Panel").Value</h4>
+        </div>
+    </div>
+</div>
+
+<div class="card border-light border">
+    <h6 class="card-header"><i b-eruwahco1m="" class=" uil-building me-1"></i>@_localization.Getkey("Ürün İşlemleri").Value</h6>
+    <div class="card-body">
+        <div class="row mb-2">
+            <div class="col-sm-4">
+                <button class="btn btn-success btn-sm mb-2" data-bs-toggle="modal" data-bs-target="#addProductModal"><i class="mdi mdi-plus-circle me-2"></i>@_localization.Getkey("Ürün Ekle").Value</button>
+            </div>
+            <div class="col-sm-8">
+                <div class="d-flex align-items-center px-2">
+                    <label class="me-2" style="width:80px;">@_localization.Getkey("Kategori").Value :</label>
+                    <select class="form-select" id="categoryOption" onchange="categoryOptionChange()">
+                        <option selected="" value="0">@_localization.Getkey("Tüm Kategoriler").Value</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="app-search mb-2">
+            <div class="mb-2 position-relative">
+                <input type="text" class="form-control" id="searchText" autocomplete="off" placeholder="@_localization.Getkey("Ürün Adı ile Ara...").Value">
+                <span class="mdi mdi-magnify search-icon"></span>
+            </div>
+        </div>
+        <div class="mt-2" id="divProducts">
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="addProductModal" tabindex="-1" role="dialog"
+     aria-labelledby="vLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="productModalLabel">@_localization.Getkey("Ürün Bilgileri").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row mt-1">
+                    <div class="col-12 text-center">
+                        <img src="~/assets/images/productNull.png" id="productImage" class="rounded-circle avatar-lg img-thumbnail" style="border:1px solid;" alt="productNo" width="50" height="auto">
+                    </div>
+                </div>
+                <div class="d-flex align-items-center px-2 mb-2 mt-2">
+                    <input type="file" id="fileinput" onchange="getBaseUrl()" class="form-control">
+                </div>
+                <hr />
+                <div class="d-flex align-items-center px-2 mb-2 mt-3">
+                    <label class="me-2" style="width:80px;">@_localization.Getkey("Kategori").Value :</label>
+                    <select class="form-select" id="modalCategoryOption">
+                        <option selected="" value="0">@_localization.Getkey("Kategori Seç...").Value</option>
+                    </select>
+                </div>
+                <div class="d-flex align-items-center px-2 mb-2">
+                    <label class="me-2" style="width:80px;">@_localization.Getkey("Birim").Value :</label>
+                    <select class="form-select" id="unitOption">
+                        <option selected="" disabled value="0">@_localization.Getkey("Birim Seç...").Value</option>
+                    </select>
+                </div>
+                <div class="d-flex align-items-center px-2 mb-2">
+                    <label class="me-2" style="width:80px;">@_localization.Getkey("Ürün Adı").Value :</label>
+                    <input type="text" id="inputProductName" autocomplete="off" class="form-control" />
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light" data-bs-dismiss="modal">@_localization.Getkey("Vazgeç").Value</button>
+                <button type="button" class="btn btn-sm btn-primary" onclick="saveProduct()">@_localization.Getkey("Kaydet").Value</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/product/product.js"></script>
+<script src="~/js/other.js"></script>

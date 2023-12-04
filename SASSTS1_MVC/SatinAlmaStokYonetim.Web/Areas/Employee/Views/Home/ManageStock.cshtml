@@ -1,0 +1,106 @@
+﻿<script>
+    //manageStock.js
+    var let_queue = " @_localization.Getkey("Sıra").Value "
+    var let_productName = " @_localization.Getkey("Ürün Adı").Value "
+    var let_quantity = " @_localization.Getkey("Miktar").Value "
+    var let_deStock = " @_localization.Getkey("Stok Çıkış").Value "
+    var let_date = " @_localization.Getkey("Tarih").Value "
+    var let_stockIn = " @_localization.Getkey("Stok Girişi").Value "
+    var let_stockInOut = " @_localization.Getkey("Stok Giriş/Çıkış").Value "
+    var let_stockInDone = " @_localization.Getkey("Stok Girişi Yapıldı.").Value "
+    var let_deStockDone = " @_localization.Getkey("Stok Çıkışı Yapıldı.").Value "
+    var let_selectProduct = " @_localization.Getkey("Ürün Seç...").Value "
+</script>
+
+<div class="card border-light border">
+    <h6 class="card-header">@_localization.Getkey("Stok İşlemleri")</h6>
+    <div class="card-body">
+        <ul class="nav nav-tabs nav-bordered mb-3">
+            <li class="nav-item">
+                <a href="#stockPage" data-bs-toggle="tab" aria-expanded="true" class="nav-link active">
+                    @_localization.Getkey("Stok İşlemleri").Value
+                </a>
+            </li>
+            <li class="nav-item">
+                <a href="#stockOperationPage" data-bs-toggle="tab" aria-expanded="false" class="nav-link">
+                    @_localization.Getkey("Stok Hareketleri").Value 
+                </a>
+            </li>
+        </ul>
+        <div class="tab-content">
+            <div class="tab-pane active show" id="stockPage">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="app-search mb-2">
+                            <form>
+                                <div class="mb-2 position-relative">
+                                    <input type="text" class="form-control" id="searchText" autocomplete="off" placeholder="@_localization.Getkey("Ürün Ara...").Value">
+                                    <span class="mdi mdi-magnify search-icon"></span>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div class="table-responsive">
+                    <div id="divStocks">
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab-pane " id="stockOperationPage">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <h5 class="bg-light p-2" style="margin-top: -1px;"><i class="mdi  mdi-newspaper-variant me-1"></i> @_localization.Getkey("Filtre : Ürün").Value</h5>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="text-sm-end">
+                            <select class="form-select float-end" id="productOption" onChange="productChange()" style="min-width:180px;">
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div class="table-responsive">
+                    <div id="divStockOperation">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="stockModal" tabindex="-1" role="dialog" aria-labelledby="stockModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="stockModalLabel">@_localization.Getkey("Stok Çıkış Bilgileri").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row pb-2 justify-content-center">
+                    <img src="~/assets/images/null.png" id="productImage" class="img-fluid"
+                         style="width:180px; height:140px;" alt="Product-img">
+                </div>
+                <div class="col-auto pt-1">
+                    <div class="d-flex align-items-center px-2">
+                        <label class="me-2" style="width:120px;">@_localization.Getkey("Stok Bilgisi").Value :</label>
+                        <input type="number" min="1" max="100" id="productQuantity" class="form-control" disabled />
+                    </div>
+                </div>
+                <div class="col-auto pt-2 pb-4">
+                    <div class="d-flex align-items-center px-2">
+                        <label class="me-2" style="width:120px;">@_localization.Getkey("Çıkış Adedi").Value:</label>
+                        <input type="number" min="1" max="100" id="inputQuantity" class="form-control" required/>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light" data-bs-dismiss="modal">@_localization.Getkey("Vazgeç").Value</button>
+                <button type="button" class="btn btn-sm btn-primary" onclick="stockOutAction()">@_localization.Getkey("Kaydet").Value</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/stock/manageStock.js"></script>

@@ -1,0 +1,48 @@
+﻿<script>
+    //approveRequest.js
+    var let_request = " @_localization.Getkey("Talep").Value "
+    var let_requestDenied = " @_localization.Getkey("Talep Reddedildi").Value "
+    var let_error = " @_localization.Getkey("Hata").Value "
+    var let_duringProcessFail = "@_localization.Getkey("İşlem Sırasında Hata Oluştu.").Value"
+    var let_requestApproved = " @_localization.Getkey("Talep Onaylandı").Value "
+    var let_requestNo = " @_localization.Getkey("Talep No").Value "
+    var let_queue = " @_localization.Getkey("Sıra").Value "
+    var let_productName = " @_localization.Getkey("Ürün Adı").Value "
+    var let_quantity = " @_localization.Getkey("Miktar").Value "
+    var let_unit = " @_localization.Getkey("Birim").Value "
+    var let_requestCreationDate = " @_localization.Getkey("Talep Oluşturulma Tarihi").Value "
+    var let_denyRequest = " @_localization.Getkey("Talebi Reddet").Value "
+    var let_acceptRequest = " @_localization.Getkey("Talebi Onayla").Value "
+    var let_waitingForApproval = " @_localization.Getkey("Onay Bekliyor").Value "
+</script>
+<div class="card border border-light" style="min-height: 450px;">
+    <div class="card-body">
+        <div class="page-aside-left" style="min-height: 450px;">
+            <div class="col-12">
+                <h5 class="mt-0 mb-3">@_localization.Getkey("Talep Listesi").Value</h5>
+                <div class="app-search">
+                    <form>
+                        <div class="mb-2 position-relative">
+                            <input type="text" class="form-control" id="searchRequest" placeholder="@_localization.Getkey("Talep No Ara...").Value">
+                            <span class="mdi mdi-magnify search-icon"></span>
+                        </div>
+                    </form>
+                </div>
+                <div data-simplebar style="max-height: 350px;">
+                    <div id="divRequests"></div>
+                </div>
+            </div>
+        </div>
+        <div class="page-aside-right">
+            <div class="row">
+                <div class="col-5">
+                    <div id="infoRequestNo"></div>
+                </div>
+            </div>
+            <hr class="mt-1" />
+            <div class="mt-4" id="divBasketDetail"></div>
+
+        </div>
+    </div>
+</div>
+<script src="~/js/request/approveRequest.js"></script>

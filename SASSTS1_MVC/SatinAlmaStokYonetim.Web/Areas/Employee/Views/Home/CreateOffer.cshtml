@@ -1,0 +1,188 @@
+﻿<script>
+    //createOffer.js
+    var let_requestNo = " @_localization.Getkey("Talep No").Value "
+    var let_queue = " @_localization.Getkey("Sıra").Value "
+    var let_productName = " @_localization.Getkey("Ürün Adı").Value "
+    var let_quantity = " @_localization.Getkey("Miktar").Value "
+    var let_unitPrice = " @_localization.Getkey("Birim Fiyat").Value "
+    var let_offer = " @_localization.Getkey("Teklif").Value "
+    var let_offerTook = " @_localization.Getkey("Teklif Alındı").Value "
+    var let_error = " @_localization.Getkey("Hata").Value "
+    var let_duringProcessFail = " @_localization.Getkey("İşlem Sırasında Hata Oluştu.").Value "
+    var let_selectSupplierCompany = " @_localization.Getkey("Tedarikçi Firmayı Seç...").Value "
+    var let_totalPrice = " @_localization.Getkey("Toplam Fiyat").Value "
+    var let_totalTLPrice = " @_localization.Getkey("Toplam TL Fiyatı").Value "
+    var let_turkishLiras = " @_localization.Getkey("Türk Lirası").Value "
+    var let_dolar = " @_localization.Getkey("Dolar").Value "
+    var let_euro = " @_localization.Getkey("Euro").Value "
+    var let_sterlin = " @_localization.Getkey("Sterlin").Value "
+    var let_supplierNotSelected = " @_localization.Getkey("Tedarikçi Firma Seçilmedi.").Value "
+    var let_createOffer = " @_localization.Getkey("Teklifi Oluştur").Value "
+    var let_offersTaking = " @_localization.Getkey("Teklif Alınıyor...").Value "
+    var let_requestNo = " @_localization.Getkey("Talep No").Value "
+    var let_price = "@_localization.Getkey("Fiyat").Value"
+</script>
+
+<div class="card border border-light">
+    <div class="card-body">
+        <div class="page-aside-left">
+            <div class="col-12">
+                <h5 class="mb-3 bg-light p-2">
+                    <i class="mdi mdi-office-building me-1"></i> @_localization.Getkey("Talep Listesi").Value
+                </h5>
+                <div class="app-search">
+                    <form>
+                        <div class="mb-2 position-relative">
+                            <input type="text" class="form-control" id="searchRequest" autocomplete="off" placeholder="@_localization.Getkey("Talep No Ara...").Value">
+                            <span class="mdi mdi-magnify search-icon"></span>
+                        </div>
+                    </form>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div data-simplebar="init" style="max-height: 535px;">
+                            <div class="simplebar-wrapper" style="margin: 0px;">
+                                <div class="simplebar-height-auto-observer-wrapper">
+                                    <div class="simplebar-height-auto-observer"></div>
+                                </div>
+                                <div class="simplebar-mask">
+                                    <div class="simplebar-offset" style="right: 0px; bottom: 0px;">
+                                        <div class="simplebar-content-wrapper"
+                                             style="height: auto; overflow: hidden scroll;">
+                                            <div class="simplebar-content" style="padding: 0px;">
+                                                <div id="divRequests"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="simplebar-placeholder"
+                                     style="width: 291px; height: 546px;"></div>
+                            </div>
+                            <div class="simplebar-track simplebar-horizontal"
+                                 style="visibility: visible;">
+                                <div class="simplebar-scrollbar" style="width: 0px; display: none;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="page-aside-right">
+            <div id="infoRequestNo">
+                <h5 class="mb-3 bg-light p-2">
+                    <i class="mdi mdi-office-building me-1"></i>@_localization.Getkey("Talep No").Value : -
+                </h5>
+
+            </div>
+            <div class="row">
+                <div class="text-sm-end" id="offerDetailButton" style="display:inline-block;">
+                    <div class="row">
+
+                        <div class="col-7 col-sm-7 col-md-7">
+                            <div class="d-flex align-items-center mt-1">
+                                <label class="me-2" style="width:150px;">@_localization.Getkey("Tedarikçi Firma").Value</label>
+                                <select class="form-select" id="suppliersOption"
+                                        onChange="supplierChange()" style="min-width:180px;">
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-5 col-sm-5  col-md-5">
+                            <button type="button" data-bs-toggle="modal" id="closeOfferEntryButton" data-bs-target="#closeOfferEntryModal" style="display:none;" class="btn btn-outline-danger ms-2 float-end mt-1">
+                                <i class="mdi mdi-clipboard-list-outline me-1">
+                                </i>  @_localization.Getkey("Teklif Girişlerini Sonlandır.").Value
+                            </button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <h5 class="mt-4 bg-light p-2">
+                <i class="mdi mdi-office-building me-1"></i> @_localization.Getkey("Talep Edilen Ürünler").Value
+            </h5>
+            <div id="divOfferDetail">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="addOfferModal" tabindex="-1" role="dialog"
+     aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="myLargeModalLabel">@_localization.Getkey("Teklif Bilgileri").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                        aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <div class="col-auto pt-3">
+                    <div id="divOfferDetail2"></div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light"
+                        data-bs-dismiss="modal">
+                    @_localization.Getkey("Vazgeç").Value
+
+                </button>
+                <button type="button" class="btn btn-sm btn-primary"
+                        id="addOfferButton" onclick="createOffer()">
+                    @_localization.Getkey("Teklifi Oluştur").Value
+
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="detailRequestModal" tabindex="-1" role="dialog"
+     aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="myLargeModalLabel">@_localization.Getkey("Talep Bilgileri").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                        aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <div id="basketDetail" class="col-auto pt-3">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="test()" class="btn btn-sm btn-light"
+                        data-bs-dismiss="modal">
+                    @_localization.Getkey("Kapat").Value
+
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="closeOfferEntryModal" tabindex="-1" role="dialog"
+     aria-labelledby="closeOfferEntryModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="closeOfferEntryModalLabel">@_localization.Getkey("Teklifleri Sonlandır").Value</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-hidden="true"></button>
+            </div>
+            <div class="modal-body">
+                <h4 class="mt-3 mx-4 mb-3">@_localization.Getkey("Teklif Girişlerini Sonlandırmak İstiyor Musunuz?").Value</h4>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-light" data-bs-dismiss="modal">
+                    @_localization.Getkey("Vazgeç").Value
+
+                </button>
+                <button type="button" class="btn btn-sm btn-primary" onclick="closeOfferEntry()">
+                    @_localization.Getkey("Evet").Value
+
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/offer/createOffer.js"></script>
